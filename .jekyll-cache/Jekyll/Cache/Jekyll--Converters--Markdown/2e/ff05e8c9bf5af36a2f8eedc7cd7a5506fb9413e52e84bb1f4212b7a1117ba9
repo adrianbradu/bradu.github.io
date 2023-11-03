@@ -1,0 +1,18 @@
+I"l<p>New journal paper published in Scientific Reports!</p>
+
+<h2 id="authors">Authors</h2>
+<blockquote>
+  <p><em>Gianni Nteroli</em>, Manoj K. Dasa, Giulia Messa, Stella Koutsikou, Magalie Bondu, Peter M. Moselund, Christos Markos, Ole Bang, Adrian Podoleanu, and <strong>Adrian Bradu</strong></p>
+</blockquote>
+
+<h2 id="title-and-coordinates">Title and coordinates</h2>
+<blockquote>
+  <p><a href="https://doi.org/10.1038/s41598-022-14869-5">Two octaves spanning photoacoustic microscopy</a>, Sci Rep <strong>12</strong>, 10590 (2022).</p>
+</blockquote>
+
+<h2 id="abstract">Abstract</h2>
+
+<p class="yellownote">In this study, for the first time, a Photoacoustic Microscopy instrument driven by a single optical source operating over a wide spectral range (475–2400 nm), covering slightly more than two octaves is demonstrated. <em>Xenopus laevis</em> tadpoles were imaged in vivo using the whole spectral range of 2000 nm of a supercontinuum optical source, and a novel technique of mapping absorbers is also demonstrated, based on the supposition that only one chromophore contributes to the photoacoustic signal of each individual voxel in the 3D photoacoustic image. By using a narrow spectral window (of 25 nm bandwidth) within the broad spectrum of the supercontinuum source at a time, <em>in-vivo</em> hyper-spectral Photoacoustic images of tadpoles are obtained. By post-processing pairs of images obtained using different spectral windows, maps of five endogenous contrast agents (hemoglobin, melanin, collagen, glucose and lipids) are produced.</p>
+
+<p><img src="/assets/images/jpg/tadpole.jpg" alt="Desktop View" class="shadow" /></p>
+:ET

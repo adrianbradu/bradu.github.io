@@ -1,0 +1,11 @@
+I"p<h1 id="complex-master-slave-for-long-axial-range-swept-source-optical-coherence-tomography">Complex master-slave for long axial range swept-source optical coherence tomography</h1>
+
+<h2 id="authors">Authors</h2>
+<p><a href="https://research.kent.ac.uk/appliedoptics/person/dr-manuel-jorge-marques/">Manuel J. Marques</a>, <a href="https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/RIVET-Sylvain/">Sylvain Rivet</a>, <strong>Adrian Bradu</strong>, and <a href="https://www.kent.ac.uk/physical-sciences/staff/profiles/academics/adrian-podoleanu.html">Adrian Podoleanu</a></p>
+
+<h2 id="coordinates">Coordinates</h2>
+<p><a href="https://doi.org/10.1364/OSAC.1.001251">Complex master-slave for long axial range swept-source optical coherence tomography</a>,”  OSA Continuum <strong>1</strong>, 1251-1259 (2018).</p>
+
+<h2 id="abstract">Abstract</h2>
+<p>Using complex master-slave interferometry, we demonstrate extended axial range optical coherence tomography for two commercially available swept sources, well beyond the limit imposed by their k-clocks. This is achieved without k-domain re-sampling and without engaging any additional Mach-Zehnder interferometer providing a k-clock signal to the digitizer. An axial imaging range exceeding 17 mm with an attenuation of less than 30 dB is reported using two commercially available swept sources operating at 1050 nm and a 100 kHz repetition rate. This procedure has more than trebled the range achievable using the k-clock signal provided by the manufacturers. An analysis is presented on the impact that the digitization has on the axial range and resolution of the system.</p>
+:ET

@@ -1,0 +1,12 @@
+I"&<nav aria-label="Main" id="site-nav" class="site-nav">
+  
+  
+    <ul class="nav-list"><li class="nav-list-item"><a href="/" class="nav-list-link">Home</a></li><li class="nav-list-item"><a href="/docs/journal-papers/" class="nav-list-link">Papers</a></li><li class="nav-list-item"><a href="/docs/proceedings/" class="nav-list-link">Proceedings</a></li><li class="nav-list-item"><a href="/docs/patents/" class="nav-list-link">Patents</a></li><li class="nav-list-item"><a href="/docs/talks/" class="nav-list-link">Talks</a></li><li class="nav-list-item"><a href="/docs/teaching/" class="nav-list-link">Teaching</a></li><li class="nav-list-item"><button class="nav-list-expander btn-reset" aria-label="toggle items in Jobs category" aria-pressed="false">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
+    </button><a href="/docs/jobs/" class="nav-list-link">Jobs</a><ul class="nav-list"></ul></li><li class="nav-list-item"><button class="nav-list-expander btn-reset" aria-label="toggle items in Research Blog category" aria-pressed="false">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
+    </button><a href="/docs/research-blog/" class="nav-list-link">Research Blog</a><ul class="nav-list"></ul></li></ul>
+
+  
+</nav>
+:ET

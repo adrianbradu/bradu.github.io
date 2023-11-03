@@ -1,0 +1,39 @@
+I"�<h1 class="fs-9" id="adrian-bradus-website">Adrian Bradu’s website</h1>
+
+<p class="fs-6 fw-300">This is my personal website!</p>
+
+<p>August 2023, according to <a href="https://scholar.google.co.uk/citations?user=YRcnW9YAAAAJ&amp;hl=en">Google Scholar</a>:</p>
+
+<p class="label label-red">Citations: 2648</p>
+<p class="label label-yellow">h-index: 28</p>
+<p class="label label-blue">i10-index: 66</p>
+
+<p>Currently, I am a lecturer in <a href="https://www.kent.ac.uk/physics-astronomy">Physics and Astronomy</a> at the <a href="http://www.kent.ac.uk/">University of Kent</a> and a member of the <a href="http://aogkent.uk">Applied Optics Group</a> where I develop imaging techniques for applications in biosciences and medicine. In particular, my research is focused on imaging techniques based on optical coherence tomography, elastography and photoacoustic.</p>
+
+<p><a href="https://orcid.org/0000-0001-5727-2427">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+https://orcid.org/0000-0002-6890-1599
+</a></p>
+
+<p>I began my career at</p>
+
+<p><a href="https://www.uaic.ro/" class="btn btn-blue fs-5 mr-4">Alexandru Ioan Cuza University Iasi</a></p>
+
+<p>graduating in 1997 with a <code class="language-plaintext highlighter-rouge">Bsc in Physics</code>. After graduation, I studied for my <code class="language-plaintext highlighter-rouge">Msc degree</code> in Optics, Optoelectronics and Microwaves at École Nationale Supérieure d’Électronique et de Radioélectricité de Grenoble (ENSERG), Grenoble, France; my Msc thesis was ‘Spectrophotometry of turbid media using optical fibre probes’. I went on to complete my <code class="language-plaintext highlighter-rouge">PhD</code> in the group of Professor Jacques Derouard at Joseph Fourier University, Grenoble, France in 2004. My PhD thesis title was ‘Optical methods used to investigate biological tissues. Cerebral tissue spectroscopy using small optical fibre probes and optical coherence tomography imaging’.</p>
+
+<p><a href="https://research.kent.ac.uk/applied-optics/en-face-oct/master-slave-oct/" class="btn btn-green fs-5 mr-4">Master Slave Interferometry</a></p>
+
+<p>This is a novel method introduced by Prof. Podoleanu and myself last year to produce optical coherence tomography images. We submitted a patent and already published 7 journal papers in this respect.</p>
+
+<p>Other research activities I am involved with:</p>
+
+<ul>
+  <li>Development of dedicated software to acquire data, display and analysis of the images using cutting-edge techniques and methods for camera, swept source, master-slave interferometry based Optical Coherence Tomography (OCT) systems and not only.</li>
+  <li>Combining principles of spectral interferometry with principles of time domain interferometry to implement novel configurations up to proof of concept, applicable to bio-sensing and cell, tissue imaging or imaging of different organs.</li>
+  <li>Imaging systems, combining a coherence gated wave-front sensors with one or more of the following imaging channels, optical coherence tomography, confocal microscopy, non-linear microscopy and then combining coherence gated wave-front sensing with optical coherence tomography, using different or similar principles of time domain and spectral domain interferometry.</li>
+  <li>Extending the axial range in swept source optical coherence tomography by using re-circulation loops which is a quite hot topic in the OCT community. The motivation of this work is related to the fact that one of the main drawbacks of the swept source optical coherence tomography is its limited axial range. Novel interferometer configurations are tested, equipped in each arm with adjustable path length rings. By compensating for the losses in the rings using semiconductor optical amplifiers, multiple paths A-scans can be obtained which when combined axially, can lead to an extremely long overall axial range. The effect of the re-circulation loops is equivalent with extending the coherence length of the swept source. In this way, the axial imaging range in swept source optical coherence tomography can be extended well beyond the limit imposed by the coherence length of the laser, to exceed in principle many centimetres.</li>
+  <li>Non-invasive imaging of biological tissues: optical coherence tomography and confocal microscopy techniques for biological tissue imaging and adaptive optics techniques for retinal imaging.</li>
+  <li>Spectroscopy of biological media (development, measurements, interpretation; spectroscopic techniques and numerical simulations applied to biological media, optical phantoms preparation and handling).</li>
+  <li>Spectroscopy of the turbid media (development, measurements, interpretation, etc).</li>
+</ul>
+:ET

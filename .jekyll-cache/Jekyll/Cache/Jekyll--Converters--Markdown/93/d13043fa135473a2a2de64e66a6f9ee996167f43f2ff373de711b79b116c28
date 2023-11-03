@@ -1,0 +1,13 @@
+I"Ò<h1 id="fast-spectrally-encoded-mueller-optical-scanning-microscopy">Fast spectrally encoded Mueller optical scanning microscopy</h1>
+
+<h2 id="authors">Authors</h2>
+<p><a href="https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/RIVET-Sylvain/">Sylvain Rivet</a>, Matthieu Dubreuil, <strong>Adrian Bradu</strong>, and Yann Le Grand</p>
+
+<h2 id="title-and-coordinates">Title and Coordinates</h2>
+<p><a href="https://doi.org/10.1038/s41598-019-40467-z">Fast spectrally encoded Mueller optical scanning microscopy</a>, Scientific Reports <strong>9</strong>, 3972 (2019).</p>
+
+<h2 id="abstract">Abstract</h2>
+<p>Mueller microscopes enable imaging of the optical anisotropic properties of biological or non-biological samples, in phase and amplitude, at sub-micrometre scale. However, the development of Mueller
+microscopes poses an instrumental challenge: the production of polarimetric parameters must be sufficiently quick to ensure fast imaging, so that the evolution of these parameters can be visualised in real-time, allowing the operator to adjust the microscope while constantly monitoring them. In this
+report, a full Mueller scanning microscope based on spectral encoding of polarization is presented. The spectrum, collected every 10 $\mu$s for each position of the optical beam on the specimen, incorporates all the information needed to produce the full Mueller matrix, which allows simultaneous display of all the polarimetric parameters, at the unequalled rate of 1.5 Hz (for an image of 256 $\times$ 256 pixels). The design of the optical blocks allows for the real-time display of linear birefringent images which serve as guidance for the operator. In addition, the instrument has the capability to easily switch its functionality from a Mueller to a Second Harmonic Generation (SHG) microscope, providing a pixel-to-pixel matching of the images produced by the two modalities. The device performance is illustrated by imaging various unstained biological specimens.</p>
+:ET

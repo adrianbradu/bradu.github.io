@@ -1,0 +1,902 @@
+{"0": {
+    "doc": "Gabor fusion Master Slave Optical Coherence Tomography",
+    "title": "Gabor fusion Master Slave Optical Coherence Tomography",
+    "content": " ",
+    "url": "/docs/research-blog/2017-01-13-Gabor-Fusion-MSOCT/",
+    "relUrl": "/docs/research-blog/2017-01-13-Gabor-Fusion-MSOCT/"
+  },"1": {
+    "doc": "Gabor fusion Master Slave Optical Coherence Tomography",
+    "title": "Authors",
+    "content": "Ramona Cernat, Adrian Bradu, Niels Møller Israelsen, Ole Bang, Sylvain Rivet, Pearse A. Keane, David-Garway Heath, Ranjan Rajendram, and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2017-01-13-Gabor-Fusion-MSOCT/#authors",
+    "relUrl": "/docs/research-blog/2017-01-13-Gabor-Fusion-MSOCT/#authors"
+  },"2": {
+    "doc": "Gabor fusion Master Slave Optical Coherence Tomography",
+    "title": "Coordinates",
+    "content": "Gabor fusion master slave optical coherence tomography, Biomed. Opt. Express 8, 813-827 (2017). ",
+    "url": "/docs/research-blog/2017-01-13-Gabor-Fusion-MSOCT/#coordinates",
+    "relUrl": "/docs/research-blog/2017-01-13-Gabor-Fusion-MSOCT/#coordinates"
+  },"3": {
+    "doc": "Gabor fusion Master Slave Optical Coherence Tomography",
+    "title": "Abstract",
+    "content": "This paper describes the application of the Gabor filtering protocol to a Master/Slave (MS) swept source optical coherence tomography (SS)-OCT system at 1300 nm. The MS-OCT system delivers information from selected depths, a property that allows operation similar to that of a time domain OCT system, where dynamic focusing is possible. The Gabor filtering processing following collection of multiple data from different focus positions is different from that utilized by a conventional swept source OCT system using a Fast Fourier transform (FFT) to produce an A-scan. Instead of selecting the bright parts of A-scans for each focus position, to be placed in a final B-scan image (or in a final volume), and discarding the rest, the MS principle can be employed to advantageously deliver signal from the depths within each focus range only. The MS procedure is illustrated on creating volumes of data of constant transversal resolution from a cucumber and from an insect by repeating data acquisition for 4 different focus positions. In addition, advantage is taken from the tolerance to dispersion of the MS principle that allows automatic compensation for dispersion created by layers above the object of interest. By combining the two techniques, Gabor filtering and Master/Slave, a powerful imaging instrument is demonstrated. The master/slave technique allows simultaneous display of three categories of images in one frame: multiple depth en-face OCT images, two cross-sectional OCT images and a confocal like image obtained by averaging the en-face ones. We also demonstrate the superiority of MS-OCT over its FFT based counterpart when used with a Gabor filtering OCT instrument in terms of the speed of assembling the fused volume. For our case, we show that when more than 4 focus positions are required to produce the final volume, MS is faster than the conventional FFT based procedure. ",
+    "url": "/docs/research-blog/2017-01-13-Gabor-Fusion-MSOCT/#abstract",
+    "relUrl": "/docs/research-blog/2017-01-13-Gabor-Fusion-MSOCT/#abstract"
+  },"4": {
+    "doc": "Speckle variance OCT for depth resolved assessment of the viability of bovine embryos",
+    "title": "Speckle variance OCT for depth resolved assessment of the viability of bovine embryos",
+    "content": " ",
+    "url": "/docs/research-blog/2017-11-18-Speckle-variance-OCT/",
+    "relUrl": "/docs/research-blog/2017-11-18-Speckle-variance-OCT/"
+  },"5": {
+    "doc": "Speckle variance OCT for depth resolved assessment of the viability of bovine embryos",
+    "title": "Authors",
+    "content": "S. Caujolle, R. Cernat, G. Silvestri, M. J. Marques, Adrian Bradu, T. Feuchter, G. Robinson, D. K. Griffin, and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2017-11-18-Speckle-variance-OCT/#authors",
+    "relUrl": "/docs/research-blog/2017-11-18-Speckle-variance-OCT/#authors"
+  },"6": {
+    "doc": "Speckle variance OCT for depth resolved assessment of the viability of bovine embryos",
+    "title": "Coordinates",
+    "content": "Speckle variance OCT for depth resolved assessment of the viability of bovine embryos, Biomed. Opt. Express 8, 5139-5150 (2017). ",
+    "url": "/docs/research-blog/2017-11-18-Speckle-variance-OCT/#coordinates",
+    "relUrl": "/docs/research-blog/2017-11-18-Speckle-variance-OCT/#coordinates"
+  },"7": {
+    "doc": "Speckle variance OCT for depth resolved assessment of the viability of bovine embryos",
+    "title": "Abstract",
+    "content": "The morphology of embryos produced by in vitro fertilization (IVF) is commonly used to estimate their viability. However, imaging by standard microscopy is subjective and unable to assess the embryo on a cellular scale after compaction. Optical coherence tomography is an imaging technique that can produce a depth-resolved profile of a sample and can be coupled with speckle variance (SV) to detect motion on a micron scale. In this study, day 7 post-IVF bovine embryos were observed either short-term (10 minutes) or long-term (over 18 hours) and analyzed by swept source OCT and SV to resolve their depth profile and characterize micron-scale movements potentially associated with viability. The percentage of en-face images showing movement at any given time was calculated as a method to detect the vital status of the embryo. This method could be used to measure the levels of damage sustained by an embryo, for example after cryopreservation, in a rapid and non-invasive way. ",
+    "url": "/docs/research-blog/2017-11-18-Speckle-variance-OCT/#abstract",
+    "relUrl": "/docs/research-blog/2017-11-18-Speckle-variance-OCT/#abstract"
+  },"8": {
+    "doc": "Multispectral photoacoustic microscopy and optical coherence tomography using a single supercontinuum source",
+    "title": "Multispectral photoacoustic microscopy and optical coherence tomography using a single supercontinuum source",
+    "content": " ",
+    "url": "/docs/research-blog/2017-11-28-PA-OCT-One-Source/",
+    "relUrl": "/docs/research-blog/2017-11-28-PA-OCT-One-Source/"
+  },"9": {
+    "doc": "Multispectral photoacoustic microscopy and optical coherence tomography using a single supercontinuum source",
+    "title": "Authors",
+    "content": "Magalie Bondu, Manuel J. Marques, P.M. Moselund, G. Lall, Adrian Bradu, and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2017-11-28-PA-OCT-One-Source/#authors",
+    "relUrl": "/docs/research-blog/2017-11-28-PA-OCT-One-Source/#authors"
+  },"10": {
+    "doc": "Multispectral photoacoustic microscopy and optical coherence tomography using a single supercontinuum source",
+    "title": "Coordinates",
+    "content": "Multispectral photoacoustic microscopy and optical coherence tomography using a single supercontinuum source, Photoacoustics 9, 21-30 (2018). ",
+    "url": "/docs/research-blog/2017-11-28-PA-OCT-One-Source/#coordinates",
+    "relUrl": "/docs/research-blog/2017-11-28-PA-OCT-One-Source/#coordinates"
+  },"11": {
+    "doc": "Multispectral photoacoustic microscopy and optical coherence tomography using a single supercontinuum source",
+    "title": "Abstract",
+    "content": "In this paper we report on the use of a single supercontinuum (SC) source for multimodal imaging. The 2-octave bandwidth (475-2300 nm) makes the SC source suitable for optical coherence tomography (OCT) as well as for multispectral photoacoustic microscopy (MPAM). The IR band centered at 1310 nm is chosen for OCT to penetrate deeper into tissue with 8 mW average power on the sample. The 500-840 nm band is used for MPAM. The source has the ability to select the central wavelength as well as the spectral bandwidth. An energy of more than 35 nJ within a less than 50 nm bandwidth is achieved on the sample for wavelengths longer than 500 nm. In the present paper, we demonstrate the capabilities of such a multimodality imaging instrument based on a single optical source. In-vitro mouse ear B-scan images are presented. ",
+    "url": "/docs/research-blog/2017-11-28-PA-OCT-One-Source/#abstract",
+    "relUrl": "/docs/research-blog/2017-11-28-PA-OCT-One-Source/#abstract"
+  },"12": {
+    "doc": "Assessment of Ductile, Brittle, and Fatigue Fractures of Metals Using Optical Coherence Tomography",
+    "title": "Assessment of Ductile, Brittle, and Fatigue Fractures of Metals Using Optical Coherence Tomography",
+    "content": " ",
+    "url": "/docs/research-blog/2018-02-11-Fractures-OCT/",
+    "relUrl": "/docs/research-blog/2018-02-11-Fractures-OCT/"
+  },"13": {
+    "doc": "Assessment of Ductile, Brittle, and Fatigue Fractures of Metals Using Optical Coherence Tomography",
+    "title": "Authors",
+    "content": "Gheorghe Hutiu, Virgil-Florin Duma, Dorin Demian, Adrian Bradu and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2018-02-11-Fractures-OCT/#authors",
+    "relUrl": "/docs/research-blog/2018-02-11-Fractures-OCT/#authors"
+  },"14": {
+    "doc": "Assessment of Ductile, Brittle, and Fatigue Fractures of Metals Using Optical Coherence Tomography",
+    "title": "Coordinates",
+    "content": "Assessment of Ductile, Brittle, and Fatigue Fractures of Metals Using Optical Coherence Tomography, Metals 8(2), 117 (2018). ",
+    "url": "/docs/research-blog/2018-02-11-Fractures-OCT/#coordinates",
+    "relUrl": "/docs/research-blog/2018-02-11-Fractures-OCT/#coordinates"
+  },"15": {
+    "doc": "Assessment of Ductile, Brittle, and Fatigue Fractures of Metals Using Optical Coherence Tomography",
+    "title": "Abstract",
+    "content": "Some forensic in situ investigations, such as those needed in transportation (for aviation, maritime, road, or rail accidents) or for parts working under harsh conditions (e.g., pipes or turbines) would benefit from a method/technique that distinguishes ductile from brittle fractures of metals—as material defects are one of the potential causes of incidents. Nowadays, the gold standard in material studies is represented by scanning electron microscopy (SEM). However, SEM instruments are large, expensive, time-consuming, and lab-based; hence, in situ measurements are impossible. To tackle these issues, we propose as an alternative, lower-cost, sufficiently high-resolution technique, Optical Coherence Tomography (OCT) to perform fracture analysis by obtaining the topography of metallic surfaces. Several metals have been considered in this study: low soft carbon steels, lamellar graphite cast iron, an antifriction alloy, high-quality rolled steel, stainless steel, and ductile cast iron. An in-house developed Swept Source (SS) OCT system, Master-Slave (MS) enhanced is used, and height profiles of the samples’ surfaces were generated. Two configurations were used: one where the dimension of the voxel was 1000 μm^3 and a second one of 160 μm^3—with a 10 μm and a 4 μm transversal resolution, respectively. These height profiles allowed for concluding that the carbon steel samples were subject to ductile fracture, while the cast iron and antifriction alloy samples were subjected to brittle fracture. The validation of OCT images has been made with SEM images obtained with a 4 nm resolution. Although the OCT images are of a much lower resolution than the SEM ones, we demonstrate that they are sufficiently good to obtain clear images of the grains of the metallic materials and thus to distinguish between ductile and brittle fractures—especially with the higher resolution MS/SS-OCT system. The investigation is finally extended to the most useful case of fatigue fracture of metals, and we demonstrate that OCT is able to replace SEM for such investigations as well . ",
+    "url": "/docs/research-blog/2018-02-11-Fractures-OCT/#abstract",
+    "relUrl": "/docs/research-blog/2018-02-11-Fractures-OCT/#abstract"
+  },"16": {
+    "doc": "Group refractive index and group velocity dispersion measurement by complex master slave interferometry",
+    "title": "Group refractive index and group velocity dispersion measurement by complex master slave interferometry",
+    "content": " ",
+    "url": "/docs/research-blog/2018-08-09-Dispersion-MS-Sylvain/",
+    "relUrl": "/docs/research-blog/2018-08-09-Dispersion-MS-Sylvain/"
+  },"17": {
+    "doc": "Group refractive index and group velocity dispersion measurement by complex master slave interferometry",
+    "title": "Authors",
+    "content": "Sylvain Rivet, Adrian Bradu, Fiona Bairstow, Hisham Forrière, and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2018-08-09-Dispersion-MS-Sylvain/#authors",
+    "relUrl": "/docs/research-blog/2018-08-09-Dispersion-MS-Sylvain/#authors"
+  },"18": {
+    "doc": "Group refractive index and group velocity dispersion measurement by complex master slave interferometry",
+    "title": "Coordinates",
+    "content": "Group refractive index and group velocity dispersion measurement by complex master slave interferometry, Opt. Express 26, 21831-21842 (2018). ",
+    "url": "/docs/research-blog/2018-08-09-Dispersion-MS-Sylvain/#coordinates",
+    "relUrl": "/docs/research-blog/2018-08-09-Dispersion-MS-Sylvain/#coordinates"
+  },"19": {
+    "doc": "Group refractive index and group velocity dispersion measurement by complex master slave interferometry",
+    "title": "Abstract",
+    "content": "This paper demonstrates that the complex master slave interferometry (CMSI) method used in spectral domain interferometry (SDI) can efficiently be used for accurate refractive index and group velocity dispersion measurements of optically transparent samples. For the first time, we demonstrate the relevance of the phase information delivered by CMSI for dispersion evaluations with no need to linearize data. The technique proposed here has been used to accurately measure the group refractive index and the group velocity dispersion of a strong dispersive sample (SF6 glass), and a weak dispersive one (distilled water). The robustness of the technique is demonstrated through the manipulation of several sets of experimental data. ",
+    "url": "/docs/research-blog/2018-08-09-Dispersion-MS-Sylvain/#abstract",
+    "relUrl": "/docs/research-blog/2018-08-09-Dispersion-MS-Sylvain/#abstract"
+  },"20": {
+    "doc": "Recovering distance information in spectral domain interferometry",
+    "title": "Recovering distance information in spectral domain interferometry",
+    "content": " ",
+    "url": "/docs/research-blog/2018-10-18-Scientific_Reports/",
+    "relUrl": "/docs/research-blog/2018-10-18-Scientific_Reports/"
+  },"21": {
+    "doc": "Recovering distance information in spectral domain interferometry",
+    "title": "Authors",
+    "content": "Adrian Bradu, Niels Møller Israelsen, Michael Maria, Manuel J. Marques, Sylvain Rivet, Thomas Feuchter, Ole Bang and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2018-10-18-Scientific_Reports/#authors",
+    "relUrl": "/docs/research-blog/2018-10-18-Scientific_Reports/#authors"
+  },"22": {
+    "doc": "Recovering distance information in spectral domain interferometry",
+    "title": "Coordinates",
+    "content": "Recovering distance information in spectral domain interferometry,” Scientific Reports 8, 15445 (2018). ",
+    "url": "/docs/research-blog/2018-10-18-Scientific_Reports/#coordinates",
+    "relUrl": "/docs/research-blog/2018-10-18-Scientific_Reports/#coordinates"
+  },"23": {
+    "doc": "Recovering distance information in spectral domain interferometry",
+    "title": "Abstract",
+    "content": "This work evaluates the performance of the Complex Master Slave (CMS) method, that processes the spectra at the interferometer output of a spectral domain interferometry device without involving Fourier transforms (FT) after data acquisition. Reliability and performance of CMS are compared side by side with the conventional method based on FT, phase calibration with dispersion compensation (PCDC). We demonstrate that both methods provide similar results in terms of resolution and sensitivity drop-off. The mathematical operations required to produce CMS results are highly parallelizable, allowing real-time, simultaneous delivery of data from several points of different optical path differences in the interferometer, not possible via PCDC. ",
+    "url": "/docs/research-blog/2018-10-18-Scientific_Reports/#abstract",
+    "relUrl": "/docs/research-blog/2018-10-18-Scientific_Reports/#abstract"
+  },"24": {
+    "doc": "Complex master-slave for long axial range swept-source optical coherence tomography",
+    "title": "Complex master-slave for long axial range swept-source optical coherence tomography",
+    "content": " ",
+    "url": "/docs/research-blog/2018-11-30-OSAC/",
+    "relUrl": "/docs/research-blog/2018-11-30-OSAC/"
+  },"25": {
+    "doc": "Complex master-slave for long axial range swept-source optical coherence tomography",
+    "title": "Authors",
+    "content": "Manuel J. Marques, Sylvain Rivet, Adrian Bradu, and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2018-11-30-OSAC/#authors",
+    "relUrl": "/docs/research-blog/2018-11-30-OSAC/#authors"
+  },"26": {
+    "doc": "Complex master-slave for long axial range swept-source optical coherence tomography",
+    "title": "Coordinates",
+    "content": "Complex master-slave for long axial range swept-source optical coherence tomography,” OSA Continuum 1, 1251-1259 (2018). ",
+    "url": "/docs/research-blog/2018-11-30-OSAC/#coordinates",
+    "relUrl": "/docs/research-blog/2018-11-30-OSAC/#coordinates"
+  },"27": {
+    "doc": "Complex master-slave for long axial range swept-source optical coherence tomography",
+    "title": "Abstract",
+    "content": "Using complex master-slave interferometry, we demonstrate extended axial range optical coherence tomography for two commercially available swept sources, well beyond the limit imposed by their k-clocks. This is achieved without k-domain re-sampling and without engaging any additional Mach-Zehnder interferometer providing a k-clock signal to the digitizer. An axial imaging range exceeding 17 mm with an attenuation of less than 30 dB is reported using two commercially available swept sources operating at 1050 nm and a 100 kHz repetition rate. This procedure has more than trebled the range achievable using the k-clock signal provided by the manufacturers. An analysis is presented on the impact that the digitization has on the axial range and resolution of the system. ",
+    "url": "/docs/research-blog/2018-11-30-OSAC/#abstract",
+    "relUrl": "/docs/research-blog/2018-11-30-OSAC/#abstract"
+  },"28": {
+    "doc": "Down-conversion en-face optical coherence tomography",
+    "title": "Down-conversion en-face optical coherence tomography",
+    "content": " ",
+    "url": "/docs/research-blog/2019-01-24-DownConversion/",
+    "relUrl": "/docs/research-blog/2019-01-24-DownConversion/"
+  },"29": {
+    "doc": "Down-conversion en-face optical coherence tomography",
+    "title": "Authors",
+    "content": "Adrian Podoleanu, Ramona Cernat and Adrian Bradu . ",
+    "url": "/docs/research-blog/2019-01-24-DownConversion/#authors",
+    "relUrl": "/docs/research-blog/2019-01-24-DownConversion/#authors"
+  },"30": {
+    "doc": "Down-conversion en-face optical coherence tomography",
+    "title": "Coordinates",
+    "content": "Down-conversion en-face optical coherence tomography,” Biomed. Opt. Express 10, 772-788 (2019). ",
+    "url": "/docs/research-blog/2019-01-24-DownConversion/#coordinates",
+    "relUrl": "/docs/research-blog/2019-01-24-DownConversion/#coordinates"
+  },"31": {
+    "doc": "Down-conversion en-face optical coherence tomography",
+    "title": "Abstract",
+    "content": "We present an optical coherence tomography (OCT) method that can deliver an en-face OCT image from a sample in real-time, irrespective of the tuning speed of the swept source. The method, based on the master slave interferometry technique, implements a coherence gate principle by requiring that the optical path difference (OPD) between the arms of an imaging interferometer is the same with the OPD in an interrogating interferometer. In this way, a real-time en-face OCT image can originate from a depth in the sample placed in the imaging interferometer, selected by actuating on the OPD in the interrogating interferometer, while laterally scanning the incident beam over the sample. The generation of the en-face image resembles time domain OCT, with the difference that here the signal is processed based on spectral domain OCT. The optoelectronic processor operates down-conversion of the chirped radio frequency signal delivered by the photo-detector. The down-conversion factor is equal to the ratio of the maximum frequency of the photo-detected signal due to an OPD value matching the coherence length of the swept source, to the sweeping rate. This factor can exceed 106 for long coherence swept sources. ",
+    "url": "/docs/research-blog/2019-01-24-DownConversion/#abstract",
+    "relUrl": "/docs/research-blog/2019-01-24-DownConversion/#abstract"
+  },"32": {
+    "doc": "Fast spectrally encoded Mueller optical scanning microscopy",
+    "title": "Fast spectrally encoded Mueller optical scanning microscopy",
+    "content": " ",
+    "url": "/docs/research-blog/2019-03-08-Muller/",
+    "relUrl": "/docs/research-blog/2019-03-08-Muller/"
+  },"33": {
+    "doc": "Fast spectrally encoded Mueller optical scanning microscopy",
+    "title": "Authors",
+    "content": "Sylvain Rivet, Matthieu Dubreuil, Adrian Bradu, and Yann Le Grand . ",
+    "url": "/docs/research-blog/2019-03-08-Muller/#authors",
+    "relUrl": "/docs/research-blog/2019-03-08-Muller/#authors"
+  },"34": {
+    "doc": "Fast spectrally encoded Mueller optical scanning microscopy",
+    "title": "Title and Coordinates",
+    "content": "Fast spectrally encoded Mueller optical scanning microscopy, Scientific Reports 9, 3972 (2019). ",
+    "url": "/docs/research-blog/2019-03-08-Muller/#title-and-coordinates",
+    "relUrl": "/docs/research-blog/2019-03-08-Muller/#title-and-coordinates"
+  },"35": {
+    "doc": "Fast spectrally encoded Mueller optical scanning microscopy",
+    "title": "Abstract",
+    "content": "Mueller microscopes enable imaging of the optical anisotropic properties of biological or non-biological samples, in phase and amplitude, at sub-micrometre scale. However, the development of Mueller microscopes poses an instrumental challenge: the production of polarimetric parameters must be sufficiently quick to ensure fast imaging, so that the evolution of these parameters can be visualised in real-time, allowing the operator to adjust the microscope while constantly monitoring them. In this report, a full Mueller scanning microscope based on spectral encoding of polarization is presented. The spectrum, collected every 10 $\\mu$s for each position of the optical beam on the specimen, incorporates all the information needed to produce the full Mueller matrix, which allows simultaneous display of all the polarimetric parameters, at the unequalled rate of 1.5 Hz (for an image of 256 $\\times$ 256 pixels). The design of the optical blocks allows for the real-time display of linear birefringent images which serve as guidance for the operator. In addition, the instrument has the capability to easily switch its functionality from a Mueller to a Second Harmonic Generation (SHG) microscope, providing a pixel-to-pixel matching of the images produced by the two modalities. The device performance is illustrated by imaging various unstained biological specimens. ",
+    "url": "/docs/research-blog/2019-03-08-Muller/#abstract",
+    "relUrl": "/docs/research-blog/2019-03-08-Muller/#abstract"
+  },"36": {
+    "doc": "Optical Coherence Tomography Investigations and Modeling of the Sintering of Ceramic Crowns",
+    "title": "Optical Coherence Tomography Investigations and Modeling of the Sintering of Ceramic Crowns",
+    "content": " ",
+    "url": "/docs/research-blog/2019-03-21-Crowns/",
+    "relUrl": "/docs/research-blog/2019-03-21-Crowns/"
+  },"37": {
+    "doc": "Optical Coherence Tomography Investigations and Modeling of the Sintering of Ceramic Crowns",
+    "title": "Authors",
+    "content": "Virgil Florin Duma, Cosmin Sinescu, Adrian Bradu and Adrian Podoleanu, . ",
+    "url": "/docs/research-blog/2019-03-21-Crowns/#authors",
+    "relUrl": "/docs/research-blog/2019-03-21-Crowns/#authors"
+  },"38": {
+    "doc": "Optical Coherence Tomography Investigations and Modeling of the Sintering of Ceramic Crowns",
+    "title": "Coordinates",
+    "content": "Optical Coherence Tomography Investigations and Modeling of the Sintering of Ceramic Crowns, Materials 12, 947 (2019). ",
+    "url": "/docs/research-blog/2019-03-21-Crowns/#coordinates",
+    "relUrl": "/docs/research-blog/2019-03-21-Crowns/#coordinates"
+  },"39": {
+    "doc": "Optical Coherence Tomography Investigations and Modeling of the Sintering of Ceramic Crowns",
+    "title": "Abstract",
+    "content": "Dental prostheses are sintered in ovens that sometimes suffer from a loss of calibration. This can lead to variations of the sintering temperature outside the range recommended by the manufacturer. Stress and even fractures in dental ceramics may occur, and this leads to the necessity to rebuild the dental construct. The aim of this work is to monitor the quality of sintering processes using an established biomedical imaging technique—optical coherence tomography (OCT). Conventional current procedures imply the fabrication of supplemental samples that add to the expenses and are only evaluated visually. To our knowledge, we were the first to propose the use of OCT, a non-destructive method that brings objectivity for such assessments, focusing, in a previous study, on metal ceramic dental prostheses. Here, a different material, pressed ceramics, is considered, while we propose a quantitative assessment of the results—using reflectivity profiles of en-face (i.e., constant-depth) OCT images of sintered samples. The results for both the pressed ceramics and metal ceramics prostheses are discussed by obtaining the analytic functions of their reflectivity profiles. A multi-parametric analysis demonstrates the best parameter to characterize the loss of calibration of dental ovens. Rules-of-thumb are extracted; producing dental prostheses with efects can thus be avoided. ",
+    "url": "/docs/research-blog/2019-03-21-Crowns/#abstract",
+    "relUrl": "/docs/research-blog/2019-03-21-Crowns/#abstract"
+  },"40": {
+    "doc": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography",
+    "title": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography",
+    "content": " ",
+    "url": "/docs/research-blog/2019-05-30-Rat/",
+    "relUrl": "/docs/research-blog/2019-05-30-Rat/"
+  },"41": {
+    "doc": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography",
+    "title": "Authors",
+    "content": "Ruxandra Elena Luca, Carmen Darinca Todea, Virgil-Florin Duma, Adrian Bradu, Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2019-05-30-Rat/#authors",
+    "relUrl": "/docs/research-blog/2019-05-30-Rat/#authors"
+  },"42": {
+    "doc": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography",
+    "title": "Coordinates",
+    "content": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography, Quantitative Imaging in Medicine and Surgery (2019). ",
+    "url": "/docs/research-blog/2019-05-30-Rat/#coordinates",
+    "relUrl": "/docs/research-blog/2019-05-30-Rat/#coordinates"
+  },"43": {
+    "doc": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography",
+    "title": "Background",
+    "content": "The need for hard and soft tissues in oral implantology determined the development of methods and techniques to increase bone volume and their quality with different alternative materials used as substituents of patient’s natural bone. In addition, laser radiation can be used to accelerate the repair of fractures and to produce an increased volume of formed callus, as well as an increased bone mineral density. ",
+    "url": "/docs/research-blog/2019-05-30-Rat/#background",
+    "relUrl": "/docs/research-blog/2019-05-30-Rat/#background"
+  },"44": {
+    "doc": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography",
+    "title": "Methods",
+    "content": "The aim of this work is to evaluate the capability of an in-house developed multimodal complex master slave (CMS) enhanced swept source (SS) optical coherence tomography (OCT) imaging instrument to analyze the increase in the quantity and the improvement of the quality of newly-formed bone using low level laser therapy (LLLT). Bone formation is quantitatively assessed in 5 mm cylindrical defects made in the calvaria part of the skull of living rats. Samples are divided in three study groups: A, a negative control group, for which the natural healing process of the defect is investigated; B, a positive control group, for which bovine graft is used to stimulate bone formation, and C, a study group, in which bovine graft is added to the created defects and LLLT is applied throughout the entire healing period. The animals are sacrificed after 14, 21, and 30 days, and the samples are imaged using the multimodal CMS/SS-OCT instrument. ",
+    "url": "/docs/research-blog/2019-05-30-Rat/#methods",
+    "relUrl": "/docs/research-blog/2019-05-30-Rat/#methods"
+  },"45": {
+    "doc": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography",
+    "title": "Results",
+    "content": "The method allows for the simultaneous monitoring of the bone tissue via two perpendicular cross-sections and nine en-face images taken at adjustable depths into the sample. A global image with course axial resolution allows for the positioning of the field-of-view of the system on the area of interest on the tissue. The quantitative assessment of the process of bone formation is completed using the differences in brightness between the native bone, the artificial bone graft, and the newly-formed bone. ",
+    "url": "/docs/research-blog/2019-05-30-Rat/#results",
+    "relUrl": "/docs/research-blog/2019-05-30-Rat/#results"
+  },"46": {
+    "doc": "Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography",
+    "title": "Conclusion",
+    "content": "Group C is demonstrated to have a higher volume of newly-formed bone than Group B, which is better from this point of view than Group A. By analyzing the evolution of this volume of new bone in time, the most significant difference was after 21 days, therefore approximately after two thirds of the total time interval analyzed. After 30 days, the volumes of bone tend to move closer, as they begin to fill the available gap. The study demonstrates that OCT can assess quantitatively the positive impact of LLLT on bone regeneration. ",
+    "url": "/docs/research-blog/2019-05-30-Rat/#conclusion",
+    "relUrl": "/docs/research-blog/2019-05-30-Rat/#conclusion"
+  },"47": {
+    "doc": "En-face OCT/fluorescence endomicroscopy for minimally invasive imaging using a robotic scanner",
+    "title": "En-face OCT/fluorescence endomicroscopy for minimally invasive imaging using a robotic scanner",
+    "content": " ",
+    "url": "/docs/research-blog/2019-06-20-OCT-Fluo/",
+    "relUrl": "/docs/research-blog/2019-06-20-OCT-Fluo/"
+  },"48": {
+    "doc": "En-face OCT/fluorescence endomicroscopy for minimally invasive imaging using a robotic scanner",
+    "title": "Authors",
+    "content": "Manuel J. Marques, Michael R. Hughes, Khushi Vyas, Andrew Thrapp, Haojie Zhang, Adrian Bradu, Grigory Gelikonov, Petros Giataganas, Christopher J. Payne, Guang-Zhong Yang, and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2019-06-20-OCT-Fluo/#authors",
+    "relUrl": "/docs/research-blog/2019-06-20-OCT-Fluo/#authors"
+  },"49": {
+    "doc": "En-face OCT/fluorescence endomicroscopy for minimally invasive imaging using a robotic scanner",
+    "title": "Title and coordinates",
+    "content": "En-face optical coherence tomography/fluorescence endomicroscopy for minimally invasive imaging using a robotic scanner, J. of Biomedical Optics 24(6), 066006 (2019). ",
+    "url": "/docs/research-blog/2019-06-20-OCT-Fluo/#title-and-coordinates",
+    "relUrl": "/docs/research-blog/2019-06-20-OCT-Fluo/#title-and-coordinates"
+  },"50": {
+    "doc": "En-face OCT/fluorescence endomicroscopy for minimally invasive imaging using a robotic scanner",
+    "title": "Abstract",
+    "content": "We report a compact rigid instrument capable of delivering en-face optical coherence tomography (OCT) images alongside (epi)-fluorescence endomicroscopy (FEM) images by means of a robotic scanning device. Two working imaging channels are included: one for a one-dimensional scanning, forward-viewing OCT probe and another for a fiber bundle used for the FEM system. The robotic scanning system provides the second axis of scanning for the OCT channel while allowing the field of view (FoV) of the FEM channel to be increased by mosaicking. The OCT channel has resolutions of 25  /  60  μm (axial/lateral) and can provide en-face images with an FoV of 1.6  ×  2.7  mm2. The FEM channel has a lateral resolution of better than 8  μm and can generate an FoV of 0.53  ×  3.25  mm2 through mosaicking. The reproducibility of the scanning was determined using phantoms to be better than the lateral resolution of the OCT channel. Combined OCT and FEM imaging were validated with ex-vivo ovine and porcine tissues, with the instrument mounted on an arm to ensure constant contact of the probe with the tissue. The OCT imaging system alone was validated for in-vivo human dermal imaging with the handheld instrument. In both cases, the instrument was capable of resolving fine features such as the sweat glands in human dermal tissue and the alveoli in porcine lung tissue. ",
+    "url": "/docs/research-blog/2019-06-20-OCT-Fluo/#abstract",
+    "relUrl": "/docs/research-blog/2019-06-20-OCT-Fluo/#abstract"
+  },"51": {
+    "doc": "Invited talk at Advances in 3OM",
+    "title": "Invited talk at Advances in 3OM",
+    "content": ". I had an invited talk at the . 1st International Conference Advances in 3OM: Opto-Mechatronics, Opto-Mechanics and Optical Metrology . on Combining Photoacoustic and Optical Coherence Tomography Imaging for non-destructive applications. Soon, an SPIE Proceedings on combining these two technologies are going to be published. A link will be posted here. Thanks the organisers for inviting me! . Link for proceedings: . Gianni Nteroli, Adrian Podoleanu, and Adrian Bradu, “Combining photoacoustic and optical coherence tomography imaging for nondestructive testing applications,” Proc. SPIE, 12170, Advances in 3OM: Opto-Mechatronics, Opto-Mechanics, and Optical Metrology; 121700P (2022). A book of abstracts is available online: . Abstracts . ",
+    "url": "/docs/research-blog/2021-12-15-Timisoara/",
+    "relUrl": "/docs/research-blog/2021-12-15-Timisoara/"
+  },"52": {
+    "doc": "Methods for dental shade determination",
+    "title": "Methods for dental shade determination",
+    "content": "New Proceedings Published! . ",
+    "url": "/docs/research-blog/2022-03-08-Shades-SPIE/",
+    "relUrl": "/docs/research-blog/2022-03-08-Shades-SPIE/"
+  },"53": {
+    "doc": "Methods for dental shade determination",
+    "title": "Authors",
+    "content": "Christa Serban, Gianni Nteroli, Emanuela L. Craciunescu, Meda L. Negrutiu, Helmine Serban, Virgil F. Duma, Adrian Bradu, Adrian Podoleanu, Cosmin Sinescu . ",
+    "url": "/docs/research-blog/2022-03-08-Shades-SPIE/#authors",
+    "relUrl": "/docs/research-blog/2022-03-08-Shades-SPIE/#authors"
+  },"54": {
+    "doc": "Methods for dental shade determination",
+    "title": "Coordinates",
+    "content": "Methods for dental shade determination Proceedings Volume 11942, Lasers in Dentistry XXVIII; 1194206 (2022) Event: SPIE BiOS, 2022, San Francisco, California, United States . ",
+    "url": "/docs/research-blog/2022-03-08-Shades-SPIE/#coordinates",
+    "relUrl": "/docs/research-blog/2022-03-08-Shades-SPIE/#coordinates"
+  },"55": {
+    "doc": "Methods for dental shade determination",
+    "title": "Goal",
+    "content": "The aim of this in-vitro study was to evaluate comparatively the capability of software-based color analysis of mobile phone photography, with the spectrophotometric and visual methods for dental shade determination. ",
+    "url": "/docs/research-blog/2022-03-08-Shades-SPIE/#goal",
+    "relUrl": "/docs/research-blog/2022-03-08-Shades-SPIE/#goal"
+  },"56": {
+    "doc": "Methods for dental shade determination",
+    "title": "Method",
+    "content": "Visual shade determination of the incisal, middle, and cervical thirds parts of ten extracted human teeth was performed using the Vita Classical and Vita 3D Master stock shade guides. Shade determination of the thirds of each tooth was performed using the Vita Easyshade spectrophotometer. Subsequently, photographs of each tooth were captured using a mobile phone camera. Color charts were produced using an in-house image processing technique, and the tooth color captured by the mobile phone photography was matched to the shade guides. ",
+    "url": "/docs/research-blog/2022-03-08-Shades-SPIE/#method",
+    "relUrl": "/docs/research-blog/2022-03-08-Shades-SPIE/#method"
+  },"57": {
+    "doc": "Methods for dental shade determination",
+    "title": "Results",
+    "content": "The results show that the camera-based method had better agreement with the spectrophotometric and visual methods when the Vita Classical shade guide was employed. Software-based color analysis of mobile phone photography should be further explored for its use as an affordable potential tool for increasing objectivity and accuracy in dental shade determination. ",
+    "url": "/docs/research-blog/2022-03-08-Shades-SPIE/#results",
+    "relUrl": "/docs/research-blog/2022-03-08-Shades-SPIE/#results"
+  },"58": {
+    "doc": "Two octaves spanning photoacoustic microscopy",
+    "title": "Authors",
+    "content": "Gianni Nteroli, Manoj K. Dasa, Giulia Messa, Stella Koutsikou, Magalie Bondu, Peter M. Moselund, Christos Markos, Ole Bang, Adrian Podoleanu, and Adrian Bradu . ",
+    "url": "/docs/research-blog/2022-06-23-2%20octaves/#authors",
+    "relUrl": "/docs/research-blog/2022-06-23-2%20octaves/#authors"
+  },"59": {
+    "doc": "Two octaves spanning photoacoustic microscopy",
+    "title": "Title and coordinates",
+    "content": "Two octaves spanning photoacoustic microscopy, Sci Rep 12, 10590 (2022). ",
+    "url": "/docs/research-blog/2022-06-23-2%20octaves/#title-and-coordinates",
+    "relUrl": "/docs/research-blog/2022-06-23-2%20octaves/#title-and-coordinates"
+  },"60": {
+    "doc": "Two octaves spanning photoacoustic microscopy",
+    "title": "Abstract",
+    "content": "In this study, for the first time, a Photoacoustic Microscopy instrument driven by a single optical source operating over a wide spectral range (475–2400 nm), covering slightly more than two octaves is demonstrated. Xenopus laevis tadpoles were imaged in vivo using the whole spectral range of 2000 nm of a supercontinuum optical source, and a novel technique of mapping absorbers is also demonstrated, based on the supposition that only one chromophore contributes to the photoacoustic signal of each individual voxel in the 3D photoacoustic image. By using a narrow spectral window (of 25 nm bandwidth) within the broad spectrum of the supercontinuum source at a time, in-vivo hyper-spectral Photoacoustic images of tadpoles are obtained. By post-processing pairs of images obtained using different spectral windows, maps of five endogenous contrast agents (hemoglobin, melanin, collagen, glucose and lipids) are produced. ",
+    "url": "/docs/research-blog/2022-06-23-2%20octaves/#abstract",
+    "relUrl": "/docs/research-blog/2022-06-23-2%20octaves/#abstract"
+  },"61": {
+    "doc": "Two octaves spanning photoacoustic microscopy",
+    "title": "Two octaves spanning photoacoustic microscopy",
+    "content": "New journal paper published in Scientific Reports! . ",
+    "url": "/docs/research-blog/2022-06-23-2%20octaves/",
+    "relUrl": "/docs/research-blog/2022-06-23-2%20octaves/"
+  },"62": {
+    "doc": "900 kHz dual resonance akinetic dispersive cavity swept source using a cFBG and an intensity modulator",
+    "title": "900 kHz dual resonance akinetic dispersive cavity swept source using a cFBG and an intensity modulator",
+    "content": "18 July 2022 . New journal paper published in Optics Letters! . ",
+    "url": "/docs/research-blog/2022-07-18-900kHz-Rene/",
+    "relUrl": "/docs/research-blog/2022-07-18-900kHz-Rene/"
+  },"63": {
+    "doc": "900 kHz dual resonance akinetic dispersive cavity swept source using a cFBG and an intensity modulator",
+    "title": "Authors",
+    "content": "Rene Riha, Adrian Bradu, and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2022-07-18-900kHz-Rene/#authors",
+    "relUrl": "/docs/research-blog/2022-07-18-900kHz-Rene/#authors"
+  },"64": {
+    "doc": "900 kHz dual resonance akinetic dispersive cavity swept source using a cFBG and an intensity modulator",
+    "title": "Title and coordinates",
+    "content": "900 kHz dual resonance akinetic dispersive cavity swept source using a cFBG and an intensity modulator, Opt. Lett. 47(16), 4032-35 (2022). ",
+    "url": "/docs/research-blog/2022-07-18-900kHz-Rene/#title-and-coordinates",
+    "relUrl": "/docs/research-blog/2022-07-18-900kHz-Rene/#title-and-coordinates"
+  },"65": {
+    "doc": "900 kHz dual resonance akinetic dispersive cavity swept source using a cFBG and an intensity modulator",
+    "title": "Abstract",
+    "content": "In this paper, a fast dual resonance akinetic opticalswept source operating at 1550 nm is demonstrated. In-stead of modulating the optical amplifier gain reportedin our previous studies, here we employ a fiber intensitymodulator as a mode-locking element. A chirped fiberBragg grating is used to provide sufficient dispersion inthe laser cavity. A tuning range of 25 nm is obtained fora sweep frequency of ~900 kHz with a 6 dB drop-off insensitivity at 2.6 mm optical path difference. ",
+    "url": "/docs/research-blog/2022-07-18-900kHz-Rene/#abstract",
+    "relUrl": "/docs/research-blog/2022-07-18-900kHz-Rene/#abstract"
+  },"66": {
+    "doc": "400 Hz volume rate swept-source optical coherence tomography at 1060 nm using a KTN deflector",
+    "title": "400 Hz volume rate swept-source optical coherence tomography at 1060 nm using a KTN deflector",
+    "content": "05 October 2022 . New journal paper published in IEEE Photonics Technology Letters! . ",
+    "url": "/docs/research-blog/2022-10-04-400kHz-Alejandro/",
+    "relUrl": "/docs/research-blog/2022-10-04-400kHz-Alejandro/"
+  },"67": {
+    "doc": "400 Hz volume rate swept-source optical coherence tomography at 1060 nm using a KTN deflector",
+    "title": "Authors",
+    "content": "A. M. Jiménez, S. Grelet, V. Tsatourian, P. B. Montague, Adrian Bradu, and A. Podoleanu . ",
+    "url": "/docs/research-blog/2022-10-04-400kHz-Alejandro/#authors",
+    "relUrl": "/docs/research-blog/2022-10-04-400kHz-Alejandro/#authors"
+  },"68": {
+    "doc": "400 Hz volume rate swept-source optical coherence tomography at 1060 nm using a KTN deflector",
+    "title": "Title and coordinates",
+    "content": "A. M. Jiménez, S. Grelet, V. Tsatourian, P. B. Montague, Adrian Bradu, and A. Podoleanu, “400 Hz volume rate swept-source optical coherence tomography at 1060 nm using a KTN deflector,” IEEE Photonics Techn. Lett., 2022. ",
+    "url": "/docs/research-blog/2022-10-04-400kHz-Alejandro/#title-and-coordinates",
+    "relUrl": "/docs/research-blog/2022-10-04-400kHz-Alejandro/#title-and-coordinates"
+  },"69": {
+    "doc": "400 Hz volume rate swept-source optical coherence tomography at 1060 nm using a KTN deflector",
+    "title": "Abstract",
+    "content": "In this Letter, a swept-source optical coherence tomography (SS-OCT) instrument employing an innovative scanning protocol for high-speed volumetric rate imaging is demonstrated. The optical source is a tunable laser based on a supercontinuum source pumped with femtosecond pulses, followed by a time-stretched delay fiber. The instrument is equipped with an ultra-fast lateral scanner, based on a KTN crystal, driven at 100 kHz. The paper proves the utility of combining an ultra-fast lateral scanner with an ultra-fast swept laser to provide A-scans at a repetition rate of 40 MHz and an unprecedented 3D-OCT volume acquisition rate of 400 Hz. ",
+    "url": "/docs/research-blog/2022-10-04-400kHz-Alejandro/#abstract",
+    "relUrl": "/docs/research-blog/2022-10-04-400kHz-Alejandro/#abstract"
+  },"70": {
+    "doc": "Enhanced resolution optoacoustic microscopy using a picosecond high repetition rate Q-switched microchip laser",
+    "title": "Enhanced resolution optoacoustic microscopy using a picosecond high repetition rate Q-switched microchip laser",
+    "content": "29 November 2022 . New journal paper published in Journal of Biomedical Optics! . ",
+    "url": "/docs/research-blog/2022-11-29-papico/",
+    "relUrl": "/docs/research-blog/2022-11-29-papico/"
+  },"71": {
+    "doc": "Enhanced resolution optoacoustic microscopy using a picosecond high repetition rate Q-switched microchip laser",
+    "title": "Authors",
+    "content": "Gianni Nteroli, Giulia Messa, Manoj K. Dasa, Antti Penttinen, Antti Härkönen, Mircea Guina, Adrian Podoleanu, Stella Koutsikou, and Adrian Bradu . ",
+    "url": "/docs/research-blog/2022-11-29-papico/#authors",
+    "relUrl": "/docs/research-blog/2022-11-29-papico/#authors"
+  },"72": {
+    "doc": "Enhanced resolution optoacoustic microscopy using a picosecond high repetition rate Q-switched microchip laser",
+    "title": "Title and coordinates",
+    "content": "“Enhanced resolution optoacoustic microscopy using a picosecond high repetition rate Q-switched microchip laser,” Journal of Biomedical Optics 27(11), 110501 (2022). ",
+    "url": "/docs/research-blog/2022-11-29-papico/#title-and-coordinates",
+    "relUrl": "/docs/research-blog/2022-11-29-papico/#title-and-coordinates"
+  },"73": {
+    "doc": "Enhanced resolution optoacoustic microscopy using a picosecond high repetition rate Q-switched microchip laser",
+    "title": "Abstract",
+    "content": "Conventional optoacoustic microscopy (OAM) instruments have at their core a nanosecond pulse duration laser. If lasers with a shorter pulse duration are used, broader, higher frequency ultrasound waves are expected to be generated and as a result, the axial resolution of the instrument is improved. Here, we exploit the advantage offered by a picosecond duration pulse laser to enhance the axial resolution of an OAM instrument. In comparison to an instrument equipped with a 2-ns pulse duration laser, an improvement in the axial resolution of 50% is experimentally demonstrated by using excitation pulses of only 85 ps. To illustrate the capability of the instrument to generate high-quality optoacoustic images, en-face, in-vivo images of the brain of Xenopus laevis tadpole are presented with a lateral resolution of 3.8 μm throughout the entire axial imaging range. ",
+    "url": "/docs/research-blog/2022-11-29-papico/#abstract",
+    "relUrl": "/docs/research-blog/2022-11-29-papico/#abstract"
+  },"74": {
+    "doc": "Effect of an Anaerobic Fermentation Process on 3D-Printed PLA Materials of a Biogas-Generating Reactor",
+    "title": "Effect of an Anaerobic Fermentation Process on 3D-Printed PLA Materials of a Biogas-Generating Reactor",
+    "content": "01 December 2022 . New journal paper published in Materials! . ",
+    "url": "/docs/research-blog/2022-12-01-biogas/",
+    "relUrl": "/docs/research-blog/2022-12-01-biogas/"
+  },"75": {
+    "doc": "Effect of an Anaerobic Fermentation Process on 3D-Printed PLA Materials of a Biogas-Generating Reactor",
+    "title": "Authors",
+    "content": "Adrian Cioabla,Virgil-Florin Duma,Corina Mnerie,Ralph-Alexandru Erdelyi, George Mihai Dobre, Adrian Bradu, and Adrian Podoleanu . ",
+    "url": "/docs/research-blog/2022-12-01-biogas/#authors",
+    "relUrl": "/docs/research-blog/2022-12-01-biogas/#authors"
+  },"76": {
+    "doc": "Effect of an Anaerobic Fermentation Process on 3D-Printed PLA Materials of a Biogas-Generating Reactor",
+    "title": "Title and coordinates",
+    "content": "“[Enhanced resolution optoacoustic microscopy using a Effect of an Anaerobic Fermentation Process on 3D-Printed PLA Materials of a Biogas-Generating Reactor, Materials 15, 8571 (2022). ",
+    "url": "/docs/research-blog/2022-12-01-biogas/#title-and-coordinates",
+    "relUrl": "/docs/research-blog/2022-12-01-biogas/#title-and-coordinates"
+  },"77": {
+    "doc": "Effect of an Anaerobic Fermentation Process on 3D-Printed PLA Materials of a Biogas-Generating Reactor",
+    "title": "Abstract",
+    "content": "3D-printed materials are present in numerous applications, from medicine to engineering. The aim of this study is to assess their suitability for an application of interest today, that of testing of 3D-printed polylactic acid (PLA)-based reactors for biogas production using anaerobic digestion. The impact of temperature, pH, and aqueous phase on the tested bioreactor is investigated, together with the effect of the gaseous phase (i.e., produced biogas). Two batches of materials used separately, one after another inside the bioreactor were considered, in a realistic situation. Two essential parameters inside the reactor (i.e., pH and temperature) were continuously monitored during a time interval of 25 to 30 days for each of the two biogas-generating processes. To understand the impact of these processes on the walls of the bioreactor, samples of 3D-printed material were placed at three levels: at the top (i.e., outside the substrate), in the middle, and at the bottom of the bioreactor. The samples were analyzed using a non-destructive imaging method, Optical Coherence Tomography (OCT). An in-house developed swept-source (SS) OCT system, master–slave (MS) enhanced, operating at a central wavelength of 1310 nm was utilized. The 3D OCT images related to the degradation level of the material of the PLA samples were validated using Scanning Electron Microscopy (SEM). The differences between the impact of the substrate on samples situated at the three considered levels inside the reactor were determined and analyzed using their OCT B-scans (optical cross-section images). Thus, the impact of the biogas-generating process on the interior of the bioreactor was demonstrated and quantified, as well as the capability of OCT to perform such assessments. Therefore, future work may target OCT for in situ investigations of such bioreactors. ",
+    "url": "/docs/research-blog/2022-12-01-biogas/#abstract",
+    "relUrl": "/docs/research-blog/2022-12-01-biogas/#abstract"
+  },"78": {
+    "doc": "PhD Position on Multimodality optoacoustic remote sensing/optical coherence tomography for in-vivo, real-time imaging of the human eye (Closed)",
+    "title": "PhD Position on Multimodality optoacoustic remote sensing/optical coherence tomography for in-vivo, real-time imaging of the human eye",
+    "content": "APPLY . ",
+    "url": "/docs/jobs/PhD%20-%20Competition%20Funded/#phd-position-on-multimodality-optoacoustic-remote-sensingoptical-coherence-tomography-for-in-vivo-real-time-imaging-of-the-human-eye",
+    "relUrl": "/docs/jobs/PhD%20-%20Competition%20Funded/#phd-position-on-multimodality-optoacoustic-remote-sensingoptical-coherence-tomography-for-in-vivo-real-time-imaging-of-the-human-eye"
+  },"79": {
+    "doc": "PhD Position on Multimodality optoacoustic remote sensing/optical coherence tomography for in-vivo, real-time imaging of the human eye (Closed)",
+    "title": "About the Project",
+    "content": "In ophthalmology, functional changes, such as the oxygenation of the retinal tissue, precede structural changes, which are very often first observed using the currently available technologies, therefore having the capability to detect them earlier is of paramount importance. Nowadays, several imaging techniques including Optical Coherence Tomography (OCT), which steadily is becoming the gold standard, in producing structural images are used for diagnosing eye diseases in humans. However, none of these techniques is capable to provide accurate oxygen saturation maps of the retinal tissue, critical in investigating major blinding eye diseases such as diabetic retinopathy and age-related macular degeneration. One of the imaging techniques which has the capability to provide oxygenation maps of the biological tissue is opto-acoustic tomography (OAT). Unfortunately, OAT requires contact between the instrument and the tissue, therefore it is not suitable for in-vivo imaging the eye. Recently, a novel technique based on OAT, opto-acoustic remote sensing (OARS), not requiring contact with the tissue, has been demonstrated. Through this project, the capability of OARS to deliver retinal oxygenation maps of the eye’s retina will be evaluated. To this goal, multimodality imaging instruments equipped with OARS and OCT control channels will be developed to simultaneously produce functional and structural maps. The capability of this instrument in detecting abnormal retinal oxygenation levels in the retina will be analysed with collaborators from NHS Trust. ",
+    "url": "/docs/jobs/PhD%20-%20Competition%20Funded/#about-the-project",
+    "relUrl": "/docs/jobs/PhD%20-%20Competition%20Funded/#about-the-project"
+  },"80": {
+    "doc": "PhD Position on Multimodality optoacoustic remote sensing/optical coherence tomography for in-vivo, real-time imaging of the human eye (Closed)",
+    "title": "Deadline",
+    "content": "Applications must be received by 5 March 2023, 23:59 GMT . ",
+    "url": "/docs/jobs/PhD%20-%20Competition%20Funded/#deadline",
+    "relUrl": "/docs/jobs/PhD%20-%20Competition%20Funded/#deadline"
+  },"81": {
+    "doc": "PhD Position on Multimodality optoacoustic remote sensing/optical coherence tomography for in-vivo, real-time imaging of the human eye (Closed)",
+    "title": "How to Apply",
+    "content": "Apply now via the University of Kent’s online application process here. Please visit our website for full Physics PhD information here before applying. For further information or help with your application, please contact us via the ‘Email Institution’ button or email studypgnats@kent.ac.uk. You will need to apply through the online application form on the main University website. Please note that you will be expected to provide, . | personal details | education and employment history | supporting documentation (Curriculum Vitae, transcript of results, two academic references) | a statement to explain your reasons for study and your suitability and interest for this project. | Please also include a description of your skills and experience, software expertise and digital signal processing and other information in support of your application with direct reference to the advertisement and further particulars, explain reasons for study/outline research proposal | details/evidence of qualifications | two academic references | other personal information and supporting documentation. | . You may also contact me, School of Physics and Astronomy, Ingram, University of Kent, CT2 7NH, UK, till the closing day. ",
+    "url": "/docs/jobs/PhD%20-%20Competition%20Funded/#how-to-apply",
+    "relUrl": "/docs/jobs/PhD%20-%20Competition%20Funded/#how-to-apply"
+  },"82": {
+    "doc": "PhD Position on Multimodality optoacoustic remote sensing/optical coherence tomography for in-vivo, real-time imaging of the human eye (Closed)",
+    "title": "PhD Position on Multimodality optoacoustic remote sensing/optical coherence tomography for in-vivo, real-time imaging of the human eye (Closed)",
+    "content": " ",
+    "url": "/docs/jobs/PhD%20-%20Competition%20Funded/",
+    "relUrl": "/docs/jobs/PhD%20-%20Competition%20Funded/"
+  },"83": {
+    "doc": "PhD Position on OCT of the eye in low resource settings (Closed)",
+    "title": "PhD Position on OCT of the eye in low resource settings",
+    "content": "APPLY . We are recruiting for a fully funded PhD Studentships in Optics/Photonics/Physics for a period of 36 months with a start date in September 2023 within the Applied Optics Group, Division of Natural Sciences, University of Kent. The position is supported by the Global Challenges Doctoral Centre in the University of Kent. The PhD project will support research and development of a low-cost investigational device for noncommunicable diseases leading to blindness if not diagnosed and treated. These are preventable and the lack of essential services primarily affects developing countries where clinics cannot afford current OCT instruments, expensive and bulky. The research will focus on innovative solutions for portable, miniature, low-cost imaging systems, that can be used by a non-specialist to perform OCT imaging of the eye. The project intends to evaluate several novel avenues opened by recent research in Photonics that will be harnessed to lower significantly the cost of OCT technology. Ideally, the system should be assembled around a low-cost camera or a smartphone to enable imaging patients in remote areas of developing countries, or to be used in pop-up eye clinics to screen for retinal diseases such as diabetic retinopathy. Such a device will generate data that will enable healthcare providers to supply cost-effective, targeted treatment, not currently possible in low-resource setting countries and environments. ",
+    "url": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/#phd-position-on-oct-of-the-eye-in-low-resource-settings",
+    "relUrl": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/#phd-position-on-oct-of-the-eye-in-low-resource-settings"
+  },"84": {
+    "doc": "PhD Position on OCT of the eye in low resource settings (Closed)",
+    "title": "Scholarship value",
+    "content": "The scholarship includes a doctoral stipend equivalent to the Research Councils UK National Minimum Doctoral Stipend, of £17,668, tuition fees at the home rate and access to further research funding. ",
+    "url": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/#scholarship-value",
+    "relUrl": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/#scholarship-value"
+  },"85": {
+    "doc": "PhD Position on OCT of the eye in low resource settings (Closed)",
+    "title": "Criteria",
+    "content": "Open to Home students only. To be classed as a Home student, candidates must meet the RCUK residency criteria. For more information, you may also contact Prof Adrian Podoleanu or Dr. Adrian Bradu, School of Physical Sciences, Ingram, University of Kent, CT2 7NH, UK, till the closing day, Tuesday, 28 February 2023. For more information on research in the Applied Optics Group, applicants may visit https://netlas.aogkent.uk, https://research.kent.ac.uk/applied-optics/news/ . ",
+    "url": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/#criteria",
+    "relUrl": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/#criteria"
+  },"86": {
+    "doc": "PhD Position on OCT of the eye in low resource settings (Closed)",
+    "title": "How to apply",
+    "content": "To apply, please follow the University of Kent’s online application website, where you need to press, . APPLY . and select September 2023 as the entry date. Please ensure you include the title “PhD on OCT of the eye in low resource settings\" in the section Proposed research topic. Your application must nominate Prof. Adrian Podoleanu and Dr. Adrian Bradu as supervisors. Applicants should include the following: A full CV, a one page summary which should, . | include a description of your skills and experience in Optics, practical Lab projects, | mention any software expertise and digital signal processing and other information in support of your application with direct reference to the advertisement and further particulars, | explain reasons for study/outline research proposal, | provide details/evidence of qualifications, | provide two academic references, | provide other personal information and supporting documentation. | . ",
+    "url": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/#how-to-apply",
+    "relUrl": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/#how-to-apply"
+  },"87": {
+    "doc": "PhD Position on OCT of the eye in low resource settings (Closed)",
+    "title": "PhD Position on OCT of the eye in low resource settings (Closed)",
+    "content": " ",
+    "url": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/",
+    "relUrl": "/docs/jobs/PhD%20on%20OCT%20of%20the%20eye%20in%20low%20resource%20settings/"
+  },"88": {
+    "doc": "PhD Position on Visible OCT (Closed)",
+    "title": "Scholarship value",
+    "content": "The scholarship includes a doctoral stipend equivalent to the Research Councils UK National Minimum Doctoral Stipend, of £16,062, tuition fees at the home rate and access to further research funding. It also includes full support to the main conference on Biomedical Optics in Europe in year 3 and a short stage at the company, in addition to specialised equipment to image the eye provided by the company. ",
+    "url": "/docs/jobs/PhD%20on%20VIS%20OCT/#scholarship-value",
+    "relUrl": "/docs/jobs/PhD%20on%20VIS%20OCT/#scholarship-value"
+  },"89": {
+    "doc": "PhD Position on Visible OCT (Closed)",
+    "title": "Criteria",
+    "content": "Open to Home students only. To be classed as a Home student, candidates must meet the RCUK residency criteria, see appendix B. For more information you may also contact Prof Adrian Podoleanu or Dr. Adrian Bradu, School of Physical Sciences, Ingram, University of Kent, CT2 7NH, UK, till the closing day, 25th June 2022, at ap11@kent.ac.uk or a.bradu@kent.ac.uk. For more information on researc/h in the Applied Optics Group, applicants may visit https://netlas.aogkent.uk, https://research.kent.ac.uk/applied-optics/news/ . ",
+    "url": "/docs/jobs/PhD%20on%20VIS%20OCT/#criteria",
+    "relUrl": "/docs/jobs/PhD%20on%20VIS%20OCT/#criteria"
+  },"90": {
+    "doc": "PhD Position on Visible OCT (Closed)",
+    "title": "How to apply",
+    "content": "To apply, please follow the University of Kent’s online application website, where you need to press, Apply now and select September 2022 as the entry date. Please ensure you include the title “PhD on Optical Coherence Tomography in Visible” in the section ‘Proposed research topic’. Your application must nominate Prof. Adrian Podoleanu and Dr. Adrian Bradu as supervisors. Applicants should include the following: A full CV, a one page summary which should, . | include a description of your skills and experience in Optics, practical Lab projects, | mention any software expertise and digital signal processing and other information in support of your application with direct reference to the advertisement and further particulars, | explain reasons for study/outline research proposal, | provide details/evidence of qualifications, | provide two academic references, | provide other personal information and supporting documentation. | . ",
+    "url": "/docs/jobs/PhD%20on%20VIS%20OCT/#how-to-apply",
+    "relUrl": "/docs/jobs/PhD%20on%20VIS%20OCT/#how-to-apply"
+  },"91": {
+    "doc": "PhD Position on Visible OCT (Closed)",
+    "title": "PhD Position on Visible OCT (Closed)",
+    "content": "POSITION CLOSED . We are recruiting for a fully funded PhD Studentships in Optics/Photonics/Physics for a period of 42 months with a start date in Sept/October 2022 within the Applied Optics Group, Division of Natural Sciences, University of Kent. The position is supported by EPSRC and industry. The applicant will spend time at the University of Kent and in a company in Europe, in a combined academic/industrial supervision frame. Supervision will be provided in an European setting where specialized and complementary training will be provided at the two sites. Research will focus on innovative solutions for fast, optical coherence tomography (OCT) imaging of the human eye, using visible wavelengths. Visible light OCT theoretically provides better axial resolution than near-infrared OCT for a given wavelength bandwidth and enables novel spectroscopic studies. To realize this potential in the human retina in vivo, the unique technical challenges of visible light OCT must be addressed. Visible light OCT raises several challenges to researchers. If these can be addressed, then novel diagnostic technology for the eye can be made available. The applicant must have a good background in theoretical and experimental optics and expected to have graduated in Physics (Optics) or Electrical and Electronic Engineering. We are looking for a highly imaginative and self-motivated individual with expertise in lasers, interference, fibre optics, digital signal processing and prior experience of LabView or C++ and skills in interfacing I/O boards. ",
+    "url": "/docs/jobs/PhD%20on%20VIS%20OCT/",
+    "relUrl": "/docs/jobs/PhD%20on%20VIS%20OCT/"
+  },"92": {
+    "doc": "Jobs",
+    "title": "Jobs available",
+    "content": "Do you want to work in my research group for a MSc, PhD or as a postdoc? Below, a list of postions currently available or closed. ",
+    "url": "/docs/jobs/#jobs-available",
+    "relUrl": "/docs/jobs/#jobs-available"
+  },"93": {
+    "doc": "Jobs",
+    "title": "Jobs",
+    "content": " ",
+    "url": "/docs/jobs/",
+    "relUrl": "/docs/jobs/"
+  },"94": {
+    "doc": "Home",
+    "title": "Adrian Bradu’s website",
+    "content": "This is my website! . August 2023, according to Google Scholar: . Citations: 2699 . h-index: 29 . i10-index: 66 . I am a Senior Lecturer in Physics and Astronomy at the University of Kent, and I am also a member of the Applied Optics Group. In this role, I work on developing imaging techniques that can be applied to the fields of biosciences and medicine. My research is mainly focused on imaging techniques that are based on optical coherence tomography, elastography and photoacoustic. https://orcid.org/0000-0002-6890-1599 . I began my career at . Alexandru Ioan Cuza University Iasi . graduating in 1997 with a BSc in Physics. After graduation, I studied for my MSc degree in Optics, Optoelectronics and Microwaves at École Nationale Supérieure d’Électronique et de Radioélectricité de Grenoble (ENSERG), Grenoble, France; my MSc thesis was ‘Spectrophotometry of turbid media using optical fibre probes’. I completed my PhD in the group of Professor Jacques Derouard at Joseph Fourier University, Grenoble, France, in 2004. My PhD thesis title was Optical methods used to investigate biological tissues. Cerebral tissue spectroscopy using small optical fibre probes and optical coherence tomography imaging. Master Slave Interferometry . Several years ago, Prof. Podoleanu and I introduced a novel method to produce optical coherence tomography images, which serves as an alternative to the Fourier Transform based technique. We have developed this approach over time and submitted multiple patents on it. Additionally, we have published more than ten journal papers describing and elaborating on this technique. Other research activities I am involved with: . | Development of dedicated software to acquire data, display and analyse images using cutting-edge techniques and methods for camera, swept source, master-slave interferometry based Optical Coherence Tomography (OCT) systems and not only. | Combining spectral and time-domain interferometry principles to implement novel configurations up to proof of concept, applicable to bio-sensing and cell, tissue imaging or imaging of different organs. | Imaging systems, combining a coherence gated wave-front sensors with one or more of the following imaging channels, optical coherence tomography, confocal microscopy, non-linear microscopy and then combining coherence-gated wave-front sensing with optical coherence tomography, using different or similar principles of time domain and spectral domain interferometry. | Extending the axial range in swept-source optical coherence tomography using re-circulation loops is a hot topic in the OCT community. The motivation for this work is related to the fact that one of the main drawbacks of swept-source optical coherence tomography is its limited axial range. Novel interferometer configurations are tested and equipped with adjustable path length rings in each arm. By compensating for the losses in the circles using semiconductor optical amplifiers, multiple paths A-scans can be obtained, leading to a highly long overall axial range when combined axially. The effect of the re-circulation loops is equivalent to extending the coherence length of the swept source. In this way, the axial imaging range in swept-source optical coherence tomography can be extended well beyond the limit imposed by the coherence length of the laser to exceed, in principle, many centimetres. | Non-invasive imaging of biological tissues: optical coherence tomography and confocal microscopy techniques for biological tissue imaging and adaptive optics techniques for retinal imaging. | Spectroscopy of biological media (development, measurements, interpretation; spectroscopic techniques and numerical simulations applied to biological media, optical phantoms preparation and handling). | Spectroscopy of the turbid media (development, measurements, interpretation, etc). | . ",
+    "url": "/#adrian-bradus-website",
+    "relUrl": "/#adrian-bradus-website"
+  },"95": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    "relUrl": "/"
+  },"96": {
+    "doc": "Research Blog",
+    "title": "Research activity and not only",
+    "content": " ",
+    "url": "/docs/research-blog/#research-activity-and-not-only",
+    "relUrl": "/docs/research-blog/#research-activity-and-not-only"
+  },"97": {
+    "doc": "Research Blog",
+    "title": "Research Blog",
+    "content": " ",
+    "url": "/docs/research-blog/",
+    "relUrl": "/docs/research-blog/"
+  },"98": {
+    "doc": "Papers",
+    "title": "Journal papers",
+    "content": "This is a list of peer-reviewed journal papers I co-authored (links for old papers may not be available). Last update: December 2022 . ",
+    "url": "/docs/journal-papers/#journal-papers",
+    "relUrl": "/docs/journal-papers/#journal-papers"
+  },"99": {
+    "doc": "Papers",
+    "title": "2023",
+    "content": ". | C. Canedo Ribeiro, J. Camard, G. Silvestri, M. Marques, M. Serrano-Albal, G. Robinson, Adrian Bradu, A. Chavez-Badiola, A. Podoleanu, D.K. Griffin, Application of a Time-Lapse Optical Coherence Tomography (OCT) approach in a pilot study to visualise oocytes and embryos in depth, Human Reproduction, 38, Issue Supplement_1, (2023). | . ",
+    "url": "/docs/journal-papers/#2023",
+    "relUrl": "/docs/journal-papers/#2023"
+  },"100": {
+    "doc": "Papers",
+    "title": "2022",
+    "content": ". | Gianni Nteroli, Giulia Messa, Manoj K. Dasa, Antti Penttinen, Antti Härkönen, Mircea Guina, Adrian Podoleanu, Stella Koutsikou, and Adrian Bradu “Enhanced resolution optoacoustic microscopy using a picosecond high repetition rate Q-switched microchip laser,” Journal of Biomedical Optics 27(11), 110501 (2022). | Adrian Cioabla,Virgil-Florin Duma,Corina Mnerie,Ralph-Alexandru Erdelyi, George Mihai Dobre, Adrian Bradu, and Adrian Podoleanu, Effect of an Anaerobic Fermentation Process on 3D-Printed PLA Materials of a Biogas-Generating Reactor, Materials 15, 8571 (2022). | A. M. Jiménez, S. Grelet, V. Tsatourian, P. B. Montague, Adrian Bradu, and A. Podoleanu, “400 Hz volume rate swept-source optical coherence tomography at 1060 nm using a KTN deflector,” IEEE Photonics Techn. Lett., (2022). | Rene Riha, Adrian Bradu, and Adrian Podoleanu, “900 kHz dual resonance akinetic dispersive cavity swept source using a cFBG and an intensity modulator,” Opt. Lett., 47(16), 4032-35 (2022). | Gianni Nteroli, TManoj K. Dasa, Giulia Messa, Stella Koutsikou, Magalie Bondu, Peter M. Moselund, Christos Markos, Ole Bang, Adrian Podoleanu, and Adrian Bradu, “Two octaves spanning photoacoustic microscopy,” Sci Rep 12, 10590 (2022). | Manuel J. Marques, Michael R. Hughes, Adrián F. Uceda, Grigory Gelikonov, Adrian Bradu, and Adrian Podoleanu, “Endoscopic en-face optical coherence tomography and fluorescence imaging using correlation-based probe tracking,” Biomed. Opt. Express 13, 761-776 (2022). | . ",
+    "url": "/docs/journal-papers/#2022",
+    "relUrl": "/docs/journal-papers/#2022"
+  },"101": {
+    "doc": "Papers",
+    "title": "2021",
+    "content": ". | Ralph-Alexandru Erdelyi, Virgil-Florin Duma, Cosmin Sinescu ,George Mihai Dobre , Adrian Bradu, Adrian Podoleanu, “Optimization of X-ray Investigations in Dentistry Using Optical Coherence Tomography,” Sensors, 21(13), 4554 (2021). | Manuel Marques, Ramona Cernat, Jason Ensher, Adrian Bradu, Adrian Podoleanu, “Akinetic Swept-Source Master–Slave-Enhanced Optical Coherence Tomography,” Photonics 8(5) 141 (2021). | . ",
+    "url": "/docs/journal-papers/#2021",
+    "relUrl": "/docs/journal-papers/#2021"
+  },"102": {
+    "doc": "Papers",
+    "title": "2020",
+    "content": ". | Ralph-Alexandru Erdelyi, Virgil-Florin Duma, Cosmin Sinescu, George Mihai Dobre, Adrian Bradu, and Adrian Podoleanu, “Dental Diagnosis and Treatment Assessments: Between X-rays Radiography and Optical Coherence Tomography,” Materials 13(21) 4825 (2020). | Adrian Podoleanu, Sylvain Rivet, Adrian Bradu, M. Maria, “Apparatus and Method for Processing The Signal in Master Slave Interferometry and Apparatus and Method for Master Slave Optical Coherence Tomography with any number of sampled depths,” Patent no, US10760893, date of patent 1 September 2020. | René Říha, Manuel J Marques, Michael R Hughes, Adrian Bradu, Adrian Podoleanu, “Direct en-face, speckle-reduced images using angular-compounded Master–Slave optical coherence tomography,” J. Opt. 22, 055302 (2020). | Manoj K. Dasaa, Gianni Nteroli, Patrick Bowen, Giulia Messa, Yuyang Feng, Christian R. Petersen, Stella Koutsikou, Magalie Bondu, Peter M. Moselund, Adrian Podoleanu, Adrian Bradu, Christos Markos and Ole Bang, “All-fibre supercontinuum laser for in vivo multispectral photoacoustic microscopy of lipids in the extended near-infrared region,” Photoacoustics 100163 (2020). | . ",
+    "url": "/docs/journal-papers/#2020",
+    "relUrl": "/docs/journal-papers/#2020"
+  },"103": {
+    "doc": "Papers",
+    "title": "2019",
+    "content": ". | Andrew R. Harwey, Guillem Carles, Adrian Bradu, Adrian Podoleanu, The Physics, Instruments and Modalities of Retinal Imaging, Chapter in Computational Retinal Image Analysis - Tools, Applications and Perspectives, Elsevier Academic Press, November 2019. | Manuel Marques, Michael Hughes, Khushi Vyas, Andrew Thrapp, Haojie Zhang, Adrian Bradu, Grigory Gelikonov, Petros Giataganas, Christopher J. Payne, Guang-Zhong Yang, and Adrian Podoleanu, En-face optical coherence tomography/fluorescence endomicroscopy for minimally invasive imaging using a robotic scanner, J. Biomed. Optics 24(6), 066006 (2019). | Ruxandra Elena Luca, Carmen Darinca Todea, Virgil-Florin Duma, Adrian Bradu, Adrian Podoleanu, Quantitative assessment of rat bone regeneration using complex master-slave optical coherence tomography, Quantitative Imaging in Medicine and Surgery (2019). | Virgil Florin Duma, Cosmin Sinescu, Adrian Bradu and Adrian Podoleanu, Optical Coherence Tomography Investigations and Modeling of the Sintering of Ceramic Crowns, Materials 12, 947 (2019). | Sylvain Rivet, Matthieu Dubreuil, Adrian Bradu, and Yann Le Grand, Fast spectrally encoded Mueller optical scanning microscopy, Scientific Reports 9, 3972 (2019). | Adrian Podoleanu, Ramona Cernat and Adrian Bradu,” Down-conversion en-face optical coherence tomography,” Biomed. Opt. Express 10, 772-788 (2019). | . ",
+    "url": "/docs/journal-papers/#2019",
+    "relUrl": "/docs/journal-papers/#2019"
+  },"104": {
+    "doc": "Papers",
+    "title": "2018",
+    "content": ". | Manuel J. Marques, Sylvain Rivet, Adrian Bradu, and Adrian Podoleanu, “Complex master-slave for long axial range swept-source optical coherence tomography,” OSA Continuum 1, 1251-1259 (2018). | Adrian Bradu, Niels Møller Israelsen, Michael Maria, Manuel J. Marques, Sylvain Rivet, Thomas Feuchter, Ole Bang and Adrian Podoleanu, “Recovering distance information in spectral domain interferometry,” Scientific Reports 8, 15445 (2018). | Sylvain Rivet, Adrian Bradu, Fiona Bairstow, Hisham Forrière, and Adrian Podoleanu, “Group refractive index and group velocity dispersion measurement by complex master slave interferometry,” Opt. Express 26, 21831-21842 (2018). | Gheorghe Hutiu, Virgil-Florin Duma, Dorin Demian, Adrian Bradu and Adrian Podoleanu, “Assessment of Ductile, Brittle, and Fatigue Fractures of Metals Using Optical Coherence Tomography,” Metals 8, 117 (2018). | M. Bondu, M. Marques, P. Moselund, G. Lall, Adrian Bradu, and A. Podoleanu, “Multispectral photoacoustic microscopy and optical coherence tomography using a single supercontinuum source,” Photoacoustics 9, 21-30 (2018). | . ",
+    "url": "/docs/journal-papers/#2018",
+    "relUrl": "/docs/journal-papers/#2018"
+  },"105": {
+    "doc": "Papers",
+    "title": "2017",
+    "content": ". | S. Caujolle, R. Cernat, G. Silvestri, M. J. Marques, Adrian Bradu, T. Feuchter, G. Robinson, D. K. Griffin, and A. Podoleanu, “Speckle variance OCT for depth resolved assessment of the viability of bovine embryos,” Biomed. Opt. Express 8, 5139-5150 (2017). | C. Sinescu, Adrian Bradu, V. Duma, F. Topala, M. Negrutiu, and A. Podoleanu, “Effects of Temperature Variations during Sintering of Metal Ceramic Tooth Prostheses Investigated Non-Destructively with Optical Coherence Tomography,” Appl. Sci. 7, 552 (2017). | L. Zhang, M. Ye, P. Giataganas, M. Hughes, Adrian Bradu, A. Podoleanu, and G. Z. Yang, “From Macro to Micro: Autonomous Multiscale Image Fusion for Robotic Surgery,” IEEE Robotics &amp; Automation Magazine 24, 63-72 (2017). | Mohammad R. N. Avanaki, Adrian Bradu, and Adrian Podoleanu, “Optimization of excitation of fiber Fabry–Perot tunable filters used in swept lasers using a phase-correction method,” Appl. Opt. 56, 3378-3382 (2017). | Ramona Cernat, Adrian Bradu, Niels Møller Israelsen, Ole Bang, Sylvain Rivet, Pearse A. Keane, David-Garway Heath, Ranjan Rajendram, and Adrian Podoleanu, Gabor fusion master slave optical coherence tomography, Biomed. Opt. Express 8, 813-827 (2017). | . ",
+    "url": "/docs/journal-papers/#2017",
+    "relUrl": "/docs/journal-papers/#2017"
+  },"106": {
+    "doc": "Papers",
+    "title": "2016",
+    "content": ". | Catherine Chin, Florin Toadere, Thomas Feuchter, Lasse Leick, Peter Moselund, Adrian Bradu, and Adrian Podoleanu, Acousto-optic tunable filter for dispersion characterization of time-domain optical coherence tomography systems, Appl. Opt. 55, 5707-5714 (2016). | Adrian Bradu, Sylvain Rivet, and Adrian Podoleanu, Master/slave interferometry – ideal tool for coherence revival swept source optical coherence tomography, Biomed. Opt. Express 7, 2453-2468 (2016). | Sylvain Rivet, Manuel Marques, Adrian Bradu, and Adrian Podoleanu, Optical module to extend any Fourier domain optical coherence tomography system into a polarisation-sensitive system, J. Optics 18, 065607 (2016). | Sylvain Rivet, Michael Maria, Adrian Bradu, Thomas Feuchter, Lasse Leick, and Adrian Podoleanu, Complex master slave interferometry, Opt. Express 24, 2885-2904 (2016). | . ",
+    "url": "/docs/journal-papers/#2016",
+    "relUrl": "/docs/journal-papers/#2016"
+  },"107": {
+    "doc": "Papers",
+    "title": "2015",
+    "content": ". | Adrian Bradu, Konstantin Kapinchev, Frederick Barnes, and Adrian Podoleanu, “Master slave en-face OCT/SLO,” Biomed. Opt. Express 6, 3655-3669 (2015). | Sylvain Rivet, Adrian Bradu, and Adrian Podoleanu, “70 kHz full 4x4 Mueller polarimeter and simultaneous fiber calibration for endoscopic applications,” Opt. Express 23, 23768-23786 (2015). | Manuel J. Marques, Adrian Bradu, and Adrian Podoleanu, “Two-grating Talbot bands spectral-domain interferometer,” Opt. Lett. 40, 4014-4017 (2015). | Manuel J. Marques, Sylvain Rivet, Adrian Bradu, and Adrian Podoleanu, “Polarization-sensitive optical coherence tomography system tolerant to fiber disturbances using a line camera,” Opt. Lett. 40, 3858-3861 (2015). | J. Wang, Adrian Bradu, G. Dobre and A. Podoleanu, “Full-field swept source master slave optical coherence tomography,” IEEE Photonics Journal 7(4) 1943-0655 (2015). | Adrian Bradu, K. Kapinchev, Frederick Barnes, and Adrian Podoleanu, “On the possibility of producing true real-time retinal cross-sectional images using a graphics processing unit enhanced master-slave optical coherence tomography system,” J. Biomed. Opt., 20(7), 076008 (2015). | Adrian Bradu, Michael Maria, and Adrian Gh. Podoleanu, “Demonstration of tolerance to dispersion of Master/Slave Interferometry,” Opt. Express, 23(11) 14148-14161 (2015). | V.F. Duma, G. Dobre, D. Demian, R. Cernat, C. Sinescu, F.I. Topala, G. Hutiu, Adrian Bradu and A. Podoleanu, “Handheld scanning probes for optical coherence tomography,” Rom. Rep. Physics 67(4), 1346–1358 (2015). | Cosmin Sinescu, Meda Lavinia Negrutiu, Adrian Bradu, Virgil-Florin Duma, and Adrian Gh. Podoleanu, “Noninvasive Quantitative Evaluation of the Dentin Layer during Dental Procedures Using Optical Coherence Tomography,” Computational and Mathematical Methods in Medicine, Article ID 709076, 7 pages (2015). | Mantas Zurauskas, Adrian Bradu, Daniel R. Ferguson, Daniel X. Hammer, and Adrian Podoleanu, “Closed loop tracked Doppler optical coherence tomography based heart monitor for the Drosophila melanogaster larvae,” J. of Biophotonics 9(3), 246-252IF 4.447 (2015). | R. Cernat, Adrian Bradu, R. Rajendram, and A. Podoleanu, Simultaneous measurement of flow at several depths using multiple active paths in a low coherence interferometer, IEEE Photonics Journal 7(3), 6801012 (2015). | Silvana Canjau, Carmen Todea, Meda Lavinia Negrutiu, Cosmin Sinescu, Florin Ionel Topala, Corina Marcauteanu, Adrian Manescu, Virgil-Florin Duma, Adrian Bradu, and Adrian Gh. Podoleanu, Optical Coherence Tomography for Non-Invasive ex vivo Investigations in Dental Medicine — a Joint Group Experience (Review paper), Modern Technologies in Medicine 7(1), 97–115 (2015). | Christopher Costa, Adrian Bradu, John Rogers, Pauline Phelan, and Adrian Podoleanu, Swept source optical coherence tomography Gabor fusion splicing technique for microscopy of thick samples using a deformable mirror, J. Biomed. Opt. 20(1), 01601 (2015). | Roxana Oancea, Adrian Bradu, Cosmin Sinescu, Radu Marcel Negru, Meda Lavinia Negrutiu, Iulian Antoniac, Virgil-Florin Duma, and Adrian Podoleanu, Assessment of the sealant/tooth interface using optical coherence tomography, Journal of Adhesion Science and Technology 29(1), 49-58 (2015). | . ",
+    "url": "/docs/journal-papers/#2015",
+    "relUrl": "/docs/journal-papers/#2015"
+  },"108": {
+    "doc": "Papers",
+    "title": "2014",
+    "content": ". | G. Hutiu, V-F. Duma, D. Demian, Adrian Bradu, and A. Gh. Podoleanu, Surface imaging of metallic material fractures using optical coherence tomography, Appl. Optics 53(26), 5912-5916 (2014). | D. Demian, V-F. Duma, C. Sinescu, M.L. Negrutiu, R. Cernat, F.I. Topala, Gh. Hutiu, Adrian Bradu, and A. Gh. Podoleanu, “Design and testing of prototype handheld scanning probes for optical coherence tomography,” J. of Engineering in Medicine 228, 743-753 (2014). | Manuel J. Marques, Adrian Bradu and Adrian Gh. Podoleanu, “Towards simultaneous Talbot bands based optical coherence tomography and scanning laser ophthalmoscopy imaging,” Biomed. Opt. Express 5,1233-1249 (2014). | Adrian Bradu and Adrian Gh. Podoleanu, Imaging the eye fundus with real-time en-face spectral domain optical coherence tomography, Biomed. Opt. Express. 5, 1233-1249 (2014). | Mihai Rominu, Adrian Manescu, Cosmin Sinescu, Meda Lavinia Negrutiu, Florin Topala, Roxana Otilia Rominu, Adrian Bradu, David Jackson, Alessandra Giuliani, and Adrian Podoleanu, “Zirconia enriched dental adhesive: a solution for OCT contrast enhancement. Demonstrative study by synchrotron radiation micro-tomography,” Dental Materials 30, 417-423 (2014). | Adrian Bradu and Adrian Podoleanu, Calibration-free B-scan images produced by master/slave optical coherence tomography, Opt. Lett. 39, 450-453 (2014). | Corina Marcauteanu, Adrian Bradu, Cosmin Sinescu, Florin Ionel Topala, Meda Lavinia Negrutiu and Adrian Gh. Podoleanu, “Quantitative evaluation of dental abfraction and attrition using a swept-source optical coherence tomography system,” J. Biomed. Opt. 19(2), 021108 (2014). | . ",
+    "url": "/docs/journal-papers/#2014",
+    "relUrl": "/docs/journal-papers/#2014"
+  },"109": {
+    "doc": "Papers",
+    "title": "2013",
+    "content": ". | Adrian Podoleanu and Adrian Bradu, “Master–slave interferometry for parallel spectral domain interferometry sensing and versatile 3D optical coherence tomography,” Opt. Express 21, 19324-19338 (2013). | Sam Van der Jeught, Joris J.J. Dirckx, Johan R.M. Aerts, Adrian Bradu, Adrian Gh. Podoleanu, and Jan A. N. Buytaert, “Full-Field Thickness Distribution of Human Tympanic Membrane Obtained with Optical Coherence Tomography,” Journal of the Association for Research in Otolaryngology 14, 483-494 (2013). | Mantas Zurauskas, Adrian Bradu, and Adrian Podoleanu, “Frequency multiplexed long range swept source optical coherence tomography,” Biomed. Opt. Express 4, 778-788 (2013). | Sam Van der Jeught, Jan A. N. Buytaert, Adrian Bradu, Adrian Gh. Podoleanu, and Joris J.J. Dirckx, “Real-time correction of geometric distortion artefacts in large-volume optical coherence tomography,” Meas. Sci. Technol. 24, 057001 (2013). | Mohammad R.N. Avanaki, Adrian Bradu, Irina Trifanov, Antonio B. Lobo Ribeiro, Ali Hojjatoleslami, and A. Podoleanu, “Algorithm for Excitation Optimization of Fabry–Pérot Filters Used in Swept Sources,” IEEE Photon. Techn. Lett. 25(5), 472-475 (2013). | . ",
+    "url": "/docs/journal-papers/#2013",
+    "relUrl": "/docs/journal-papers/#2013"
+  },"110": {
+    "doc": "Papers",
+    "title": "2012",
+    "content": ". | John A. Rogers, Adrian Bradu, and Adrian Podoleanu, “Polarization maintaining multiple-depth en-face optical coherence tomography system using active re-circulation loops in the non-stationary state,” Opt. Express 20, 29196-29209 (2012). | Ramona Cernat, Taran S. Tatla, Jingyin Pang, Paul J. Tadrous, Adrian Bradu, George Dobre, Grigory Gelikonov, Valentin Gelikonov, and Adrian Podoleanu, “Dual instrument for in vivo and ex vivo OCT imaging in an ENT department,” Biomed. Opt. Express 3, 3346-3356 (2012). | Adrian Bradu and Adrian Podoleanu,”Fourier domain optical coherence tomography system with balance detection,” Optics Express 20(16), 17522-17538 (2012). | Petr Bouchal, Adrian Bradu, and Adrian Podoleanu, “Gabor fusion technique in a Talbot bands optical coherence tomography system,” Opt. Express 20, 5368-5383 (2012) | . ",
+    "url": "/docs/journal-papers/#2012",
+    "relUrl": "/docs/journal-papers/#2012"
+  },"111": {
+    "doc": "Papers",
+    "title": "2011",
+    "content": ". | Adrian Bradu and Adrian Podoleanu, “Attenuation of mirror image and enhancement of the signal-to-noise ratio in a Talbot bands optical coherence tomography system,” J. Biomed. Opt. 16, 076010 (2011). | Irina Trifanov, Adrian Bradu, L. Neagu, P. Guerreiro, A.L. Ribeiro and Adrian Podoleanu, “Experimental Method to Find the Optimum Excitation Waveform to Quench Mechanical Resonances of Fabry–Pérot Tunable Filters Used in Swept Sources,” IEEE Photonics Technology Lett. 23(12), 825-827 (2011). | Mohammad-Reza Nasiri-Avanaki, Alexander Meadway, Adrian Bradu, Rohollah Mazrae Khoshki, Ali Hojjatoleslami, and Adrian Podoleanu, “Anti-Spoof Reliable Biometry of Fingerprints Using En-Face Optical Coherence Tomography,” Optics and Photonics Journal, 1, 91-96 (2011). | . ",
+    "url": "/docs/journal-papers/#2011",
+    "relUrl": "/docs/journal-papers/#2011"
+  },"112": {
+    "doc": "Papers",
+    "title": "2010",
+    "content": ". | Sam Van der Jeught, Adrian Bradu, and Adrian Podoleanu, “Real-time resampling in Fourier domain optical coherence tomography using a graphics processing unit,” J. Biomed. Opt. 15, 030511 (2010). | Adrian Bradu, Liviu Neagu, and Adrian Podoleanu, “Extra-long imaging range swept source optical coherence tomography using re-circulation loops,” Opt. Express 18, 25361-25370 (2010). | Liviu Neagu, Adrian Bradu, Lisha Ma, James W. Bloor, and Adrian Podoleanu, “Multiple-depth en-face optical coherence tomography using active recirculation loops,” Opt. Lett. 35, 2296-2298 (2010). | Lisha Ma, Adrian Bradu, Adrian Podoleanu and James W. Bloor, “Arrhythmia Caused by a Drosophila Tropomyosin Mutation Is Revealed Using a Novel Optical Coherence Tomography Instrument,” PLoS ONE 5: e14348 (2010). | Mihai Rominu, Cosmin Sinescu, Meda Negrutiu, Daniela Maria Pop, Adrian Bradu, Emanuela Petrescu, Roxana Otilia Rominu, Claudiu Haiduc, George Dobre, and Adrian Podoleanu, “Class V Cavities Diagnostic by En-Face Optical Coherence Tomography. The Necessity of Increasing the Scattering for Adhesive Layer Media,” Timisoara Medical Journal 60, 39-43 (2010). | Corina Marcauteanu, Eniko Stoica, Bratu Dorin, Cosmin Sinescu, Meda Negrutiu, Topala Florin, Luciana Goguta, Michael Hughes, Adrian Bradu, George Dobre, and Adrian Podoleanu, “Microstructural Characterization of Non-Carious Cervical Lesions by En-Face Optical Coherence Tomography,” Timisoara Medical Journal 60,60-63 (2010). | Cosmin Sinescu, Meda Negrutiu, Ciprian Ionita, Radu Negru, Adrian Bradu, Daniela Maria Pop, Florin Topala, Liviu Marsavina, Mihai Rominu, George Dobre, Adrian Podoleanu, “Multiple Possibilities in Detection of Materials Defects in Ceramic Fixed Partial Prostheses. Numerical Simulation and Photoelasticity Methods Employed for Evaluation and Prognostic,” Timisoara Medical Journal 60, 50-55 (2010). | Cezar Clonda, Cosmin Sinescu, Meda Negrutiu, Mihai Rominu, Adrian Bradu, George Dobre, and Adrian Podoleanu, “Time Domain OCT in Galvano-Ceramic Fixed Partial Prostheses Investigations,” Timisoara Medical Journal 60, 82-85 (2010). | Eniko Stoica, Corina Marcauteanu, Bratu Dorin, Meda Negrutiu, Sinescu Cosmin, Topala Florin, Goguta Luciana, Michael Hughes, Adrian Bradu, George Dobre, and Adrian Podoleanu, “En Face Optical Coherence Tomography Investigation of Pathological Dental Wear,” Timisoara Medical Journal 60, 74-77 (2010). | . ",
+    "url": "/docs/journal-papers/#2010",
+    "relUrl": "/docs/journal-papers/#2010"
+  },"113": {
+    "doc": "Papers",
+    "title": "2009",
+    "content": ". | Ramona Cernat, George M. Dobre, Adrian Bradu, and Adrian Podoleanu, “Evaluation of effective noise bandwidth for broadband optical coherence tomography operation,” J. Opt. Soc. Am. A 26, 723-731 (2009) | Adrian Bradu, Lisha Ma, James Bloor and Adrian Gh. Podoleanu, “Dual optical coherence tomography/fluorescence microscopy for monitoring of Drosophila Melanogaster larval heart,” J. Biophotonics, 2(6-7),380-388 (2009). | Carmen Todea, Cosmin Balabuc, Cosmin Sinescu, Laura Filip, Cristina Kerezsi, Mircea Calniceanu, Meda Negrutiu, Adrian Bradu, Michael Hughes and Adrian Podoleanu, “En-face optical coherence tomography investigation of apical microleakage after laser-assisted endodontic treatment,” Lasers in medical science 25(5), 629-639, (2009) | . ",
+    "url": "/docs/journal-papers/#2009",
+    "relUrl": "/docs/journal-papers/#2009"
+  },"114": {
+    "doc": "Papers",
+    "title": "2008",
+    "content": ". | Cosmin Sinescu, Meda Lavinia Negrutiu, Carmen Todea, Cosmin Balabuc, Laura Filip, Roxana Rominu, Adrian Bradu, Michael Hughes, and Adrian Podoleanu, “Quality assessment of dental treatments using en-face optical coherence tomography,” J. Biomed. Opt. 13, 054065 (2008). | David Merino, Chris Dainty, Adrian Bradu, and Adrian Gh. Podoleanu, “Adaptive optics enhanced simultaneous en-face optical coherence tomography and scanning laser ophthalmoscopy,” Opt. Express 14, 3345-3353 (2006) | C. Julien, Adrian Bradu, R. Sablong, E. Grillon, C. Remy, J. Derouard, and J.F. Payen, “Measuring hemoglobin oxygen saturation during graded hypoxic hypoxia in rat striatum,” Anesthesia and Analgesia 10(2), 565-570,(2006). | Adrian Bradu, Cecille Julien, Emanuelle Grillon, J.F. Payen, and Jacques Derouard, “Monitoring cerebral oxygenation in-vivo by reflectance spectroscopy,” R. J. Biophys., 15(1-4):15-21, (2005). | Adrian Bradu, Adrian Podoleanu, and Richard B. Rosen, “High-speed en-face optical coherence tomography system for closed loop adaptive optics for the retina,” Journal of Optoelectronics and Advanced Materials 7 (6): 2913-2918, (2005). | Adrian Bradu, Jacques Derouard, Gheorghe Popa, Maria C. Popescu and Ghita Singurel, “Investigation of the correction factor effect for inhomogeneously distributed absorbers in turbid media as biological tissues,”Annals of the “Alexandru Ioan Cuza” University, Iasi 18, 77- 86 (2002). | Daniela Filip, Gheorghe Singurel, Cristofor Simionescu, Anisoara Socoliuc, Adrian Bradu and Doina Macocinschi, “Infrared analysis of phase transitions in liquid crystal acrylate monomers bearing urethanic groups and cholesteryl as mesogen,” Res. Chem. Interm. 28(1), 1-11, (2002). | Adrian Bradu, Ghita Singurel, Gheorghe Popa and Jacques Derouard, “Light propagation in turbid media and its applications to tissues diagnosis,” Annals of the “Al.I.Cuza” University, Iasi 17, 17-30 (2001). | E. Popovici, I. Bedelean, Ghita Singurel, Mitachi Strat, Adrian Bradu, H. Bedelean, and A. Curuciuc Suceveanu, “Study on obtainment and physicochemical characterization of some Si-PILCs,” Balkan Physics Letters, 4,901-905, (2000). | Adrian Bradu, Ghita Singurel, and Jacques Derouard, Influence of the absorber on spectrophotometric measurements in turbid media,” Balkan Physics Letters, 4, 930-934 (2000). | . ",
+    "url": "/docs/journal-papers/#2008",
+    "relUrl": "/docs/journal-papers/#2008"
+  },"115": {
+    "doc": "Papers",
+    "title": "Papers",
+    "content": " ",
+    "url": "/docs/journal-papers/",
+    "relUrl": "/docs/journal-papers/"
+  },"116": {
+    "doc": "Patents",
+    "title": "Patents, submitted/awarded",
+    "content": " ",
+    "url": "/docs/patents/#patents-submittedawarded",
+    "relUrl": "/docs/patents/#patents-submittedawarded"
+  },"117": {
+    "doc": "Patents",
+    "title": "OCT apparatus and oct method for axial tracking and flattening",
+    "content": "ABSTRACT . The present specification relates to Master-Slave (MS) interferometry for sensing the axial position of an object subject to optical coherence tomography (OCT) imaging, and to MS-OCT applied to curved and axially moving objects. The methods and apparatuses allow producing OCT signals from selected depths within the object irrespective of its axial position in respect to the imaging system. Images are obtained for curved objects that are flattened along a layer of interest in the object, images that are used to provide OCT angiography images less disturbed by axial movement or lateral scanning. Filed 2019-11-19 . Published 2021-05-20 . ",
+    "url": "/docs/patents/#oct-apparatus-and-oct-method-for-axial-tracking-and-flattening",
+    "relUrl": "/docs/patents/#oct-apparatus-and-oct-method-for-axial-tracking-and-flattening"
+  },"118": {
+    "doc": "Patents",
+    "title": "Apparatus and method for processing the signal in master slave interferometry and apparatus and method for master slave optical coherence tomography with any number of sampled depths",
+    "content": "ABSTRACT . The present invention related to an apparatus and method for master slave interferometry, referred to as Complex Master Slave (CMS). The method and apparatus can be used to provide complex-valued measurements of a signal reflected from an axial position inside an object or of signals reflected from points at several axial positions inside an object. Filed 2016-10-26 . Granted 2020-09-01 . Published 2020-09-01 . ",
+    "url": "/docs/patents/#apparatus-and-method-for-processing-the-signal-in-master-slave-interferometry-and-apparatus-and-method-for-master-slave-optical-coherence-tomography-with-any-number-of-sampled-depths",
+    "relUrl": "/docs/patents/#apparatus-and-method-for-processing-the-signal-in-master-slave-interferometry-and-apparatus-and-method-for-master-slave-optical-coherence-tomography-with-any-number-of-sampled-depths"
+  },"119": {
+    "doc": "Patents",
+    "title": "Method and apparatus for processing the signal in spectral domain interferometry and method and apparatus for spectral domain optical coherence tomography",
+    "content": "ABSTRACT . The present invention relates to spectral domain (SD) interferometry and provides apparatuses and methods, which can be used to provide measurement of a signal reflected from an axial position inside an object or of signals reflected from points at several axial positions inside an object. Embodiments are disclosed where axial reflectivity profiles are created with no need for linearization or calibration of data. The method can be used to measure distances, or for sensing applications. Axial reflectivity profiles are constructed from several measurement points acquired and processed in parallel. For imaging technology, the invention discloses apparatuses and methods to deliver in real time, in parallel, several en-face images from different depths in the volume of an object being imaged. Embodiments are disclosed where en-face optical coherence tomography (OCT) images are created with no need for software cuts of the volume of data collected and no need of linearization or calibration of data. Embodiments are disclosed where dispersion is automatically compensated for or compounds are detected based on the spectrum measured at the output of an interferometer. Filed 2013-10-26 . Granted 2018-12-26 . Published 2018-12-26 . ",
+    "url": "/docs/patents/#method-and-apparatus-for-processing-the-signal-in-spectral-domain-interferometry-and-method-and-apparatus-for-spectral-domain-optical-coherence-tomography",
+    "relUrl": "/docs/patents/#method-and-apparatus-for-processing-the-signal-in-spectral-domain-interferometry-and-method-and-apparatus-for-spectral-domain-optical-coherence-tomography"
+  },"120": {
+    "doc": "Patents",
+    "title": "Optical Mapping Apparatus",
+    "content": "ABSTRACT . Optical mapping apparatus for imaging an object, comprising an optical coherence tomography (OCT) system including an OCT source, an OCT reference path leading from the OCT source to an OCT receiver, an OCT object path leading from the object to the OCT coupler, an OCT depth scanner adapted to alter at least one of the OCT reference path and the OCT receiver path. A confocal system is provided including a confocal optical receiver a confocal path leading from the object to the confocal optical receiver via a confocal input aperture. An adaptive optics (AO) system is provided to correct optical aberrations in the OCT object path and the confocal path. Filed 2005-09-30 . Granted 2008-12-16 . Published 2008-12-16 . ",
+    "url": "/docs/patents/#optical-mapping-apparatus",
+    "relUrl": "/docs/patents/#optical-mapping-apparatus"
+  },"121": {
+    "doc": "Patents",
+    "title": "Patents",
+    "content": " ",
+    "url": "/docs/patents/",
+    "relUrl": "/docs/patents/"
+  },"122": {
+    "doc": "Proceedings",
+    "title": "Conference proceedings",
+    "content": "This is a list of conference procedings I co-authored (at least 2 pages, peer-reviewed). Last update: 14 March 2023 . ",
+    "url": "/docs/proceedings/#conference-proceedings",
+    "relUrl": "/docs/proceedings/#conference-proceedings"
+  },"123": {
+    "doc": "Proceedings",
+    "title": "2023",
+    "content": ". | Gianni Nteroli, Lucy Abbott, Rasmus D. Engelsholm, Patrick Bowen Montague, Adrian Podoleanu, and Adrian Bradu “Novel calibration method for optical coherence tomography instruments using multiple spectrometers”, Proc. SPIE 12632, Optical Coherence Imaging Techniques and Imaging in Scattering Media V, 126320E (11 August 2023). | Gianni Nteroli, Giulia Messa, Stella Koutsikou, Manoj K. Dasa, Antti Penttinen, Antti Härkönen, Mircea Guina, Adrian Podoleanu, and Adrian Bradu “Enhancing the axial resolution of an optoacoustic microscopy imaging instrument by using a pico-second pulse duration laser”, Proc. SPIE 12631, Opto-Acoustic Methods and Applications in Biophotonics VI, 1263106 (11 August 2023). | Alejandro Martínez Jiménez, Sacha Grelet, Patrick Bowen Montague, Adrian Bradu, and Adrian Podoleanu “Dual ultrahigh speed swept-source and time domain optical coherence tomography system using a time stretch laser and a KTN deflector”, Proc. SPIE 12632, Optical Coherence Imaging Techniques and Imaging in Scattering Media V, 126320B (11 August 2023). | A. Martínez Jiménez, M. Spacek, M. Wacker, R. Huber, Adrian Bradu, and A. Podoleanu “MHz time stretch swept source using a commercial erbium-doped fiber amplifier”, Proc. SPIE 12367, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXVII, 1236706 (8 March 2023). | E. A. Proano Grijalva, A. Martínez Jiménez, Adrian Bradu, A. Fernandez, B. O. Meyer, A. Jensen, E. Semenova, T. Ansbæk, K. Yvind, and A. Podoleanu “Novel 1.6 MHz swept source for real-time volumetric in-vivo OCT imaging of the human retina”, Proc. SPIE 12367, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXVII, 1236704 (8 March 2023) . | Rene Riha, Adrian Bradu, and Adrian Gh. Podoleanu “A dual resonance sweeping regime in dispersion tuned akinetic swept source at 1550 nm”, Proc. SPIE 12367, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXVII, 1236708 (8 March 2023). | . ",
+    "url": "/docs/proceedings/#2023",
+    "relUrl": "/docs/proceedings/#2023"
+  },"124": {
+    "doc": "Proceedings",
+    "title": "2022",
+    "content": ". | Roxana M. Beiu, Virgil-Florin Duma, Corina A. Mnerie, Andrea-Claudia Beiu, Mihaela A. Dochia, Lucian Copolovici, George Dobre, Adrian Bradu, Adrian Podoleanu, “Optical coherence tomography versus microscopy for the study of Aloe Vera leaves,” Proc. SPIE 12138, Optics, Photonics and Digital Technologies for Imaging Applications VII, 121380A (2022). | Gianni Nteroli, Adrian Podoleanu, and Adrian Bradu, “Combining photoacoustic and optical coherence tomography imaging for nondestructive testing applications,” Proc. SPIE, 12170, Advances in 3OM: Opto-Mechatronics, Opto-Mechanics, and Optical Metrology; 121700P (2022). | Ralph-Alexandru Erdelyi, Virgil-Florin Duma, Cosmin Sinescu, George Dobre, Adrian Bradu, and Adrian Podoleanu, “Complementarity of OCT and radiography for imaging investigations in dentistry,” Proc. SPIE 12170, Advances in 3OM: Opto-Mechatronics, Opto-Mechanics, and Optical Metrology; 1217002 (2022). | A. Podoleanu, Adrian Bradu, R. Cernat, G. Dobre, M. Hughes, M. Marques, “Optical coherence tomography for medical imaging and nondestructive testing,” Proc. SPIE 12170, Advances in 3OM: Opto-Mechatronics, Opto-Mechanics, and Optical Metrology; 121700K (2022). | Christa Serban, Gianni Nteroli, Emanuela L. Craciunescu, Meda L. Negrutiu, Helmine Serban, Virgil F. Duma, Adrian Bradu, Adrian Podoleanu, and Cosmin Sinescu “Methods of dental shade determination”, Proc. SPIE 11942, Lasers in Dentistry XXVIII, 1194206 (4 March 2022). | . ",
+    "url": "/docs/proceedings/#2022",
+    "relUrl": "/docs/proceedings/#2022"
+  },"125": {
+    "doc": "Proceedings",
+    "title": "2021",
+    "content": ". | M. J. Marques, M. Serrano-Albal, J. Camard, G. Silvestri, C. Canedo-Ribeiro, G. Robinson, D. Griffin, Adrian Bradu, and A. Podoleanu, “Time-lapse Optical Coherence Tomography Embryo Imaging with Minimal Disturbance,” in European Conferences on Biomedical Optics 2021 (ECBO), OSA Technical Digest (Optical Society of America, 2021), paper EW4A.7. | G. Nteroli, Adrian Bradu, and A. Podoleanu, “Chasing sub-micrometer axial resolution in Visible Optical Coherence Tomography,” in European Conferences on Biomedical Optics 2021 (ECBO), OSA Technical Digest (Optical Society of America, 2021), paper EW4A.32. | M. Dubreuil, S. Rivet, F. Tissier, Adrian Bradu, and Y. Le Grand, “Microscopie polarimétrique multimodale Mueller/non-linéaire des tissus biologiques,” Optique Dijon, France (2021). | . ",
+    "url": "/docs/proceedings/#2021",
+    "relUrl": "/docs/proceedings/#2021"
+  },"126": {
+    "doc": "Proceedings",
+    "title": "2020",
+    "content": ". | A. Fernández, M.J. Marques, Adrian Bradu, and A. Podoleanu, “Non-mechanical Axial Motion Compensation Using Master-Slave Optical Coherence Tomography,” in Biophotonics Congress: Biomedical Optics 2020 (Translational, Microscopy, OCT, OTS, BRAIN), OSA Technical Digest (Optical Society of America, 2020), paper OTu1E.6. | A. Podoleanu, Adrian Bradu, Ramona C. Cernat, Manuel Jorge M. Marques, Konstantin Kapinchev, and Sylvain Rivet “Unconventional Optical Coherence Tomography,” Proc. SPIE 11351, Unconventional Optical Imaging II, 1135103 (30 March 2020). | R. Erdelyi, V. Duma, G. Dobre, Adrian Bradu, and A. Podoleanu “A combination of imaging techniques for dental medicine: from X-rays radiography and 3D CBCT to OCT,” Proc. SPIE 11359, Biomedical Spectroscopy, Microscopy, and Imaging, 113591E (1 April 2020). | A. Podoleanu, Adrian Bradu, R. Cernat, and M. Marques “From master-slave to down-conversion optical coherence tomography,” Proc. SPIE 11228, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIV, 1122819 (21 February 2020). | M. Marques, R. Cernat, J. Ensher, Adrian Bradu, and A. Podoleanu “Master-slave principle applied to an electrically tunable swept source-OCT system,” Proc. SPIE 11228, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIV, 112280D (21 February 2020). | . ",
+    "url": "/docs/proceedings/#2020",
+    "relUrl": "/docs/proceedings/#2020"
+  },"127": {
+    "doc": "Proceedings",
+    "title": "2019",
+    "content": ". | Gheorghe Hutiu, Virgil-Florin Duma, Dorin Demian, Alexandru-Lucian Dimb, Ralph-Alexandru Erdelyi, Adrian Bradu, and Adrian Podoleanu “Metallic fractures assessments: OCT versus SEM ”, Proc. SPIE 11385, Optics and Measurement International Conference 2019, 1138507 (30 December 2019). | Ralph-Alexandru Erdelyi, Virgil-Florin Duma, George Dobre, Adrian Bradu, and Adrian Podoleanu “Investigations of dental cavities: between x-ray radiography and OCT,” Proc. SPIE 11385, Optics and Measurement International Conference 2019, 1138504 (30 December 2019). | Adrian Podoleanu, Ramona Cernat, Adrian Bradu, Manuel Marques, Niels Moller Israelsen, Ole Bang, Sylvain Rivet, Pearse Keane , David Garway-Heath , and Ranjan Rajendram “Gabor Fusion Master Slave Optical Coherence Tomography,” 21st International Conference on Transparent Optical Networks (ICTON), Angers, France, 2019, pp. 1-1. | Sylvain Rivet, Matthieu Dubreuil, Adrian Bradu, and Yann Le Grand, “Fast Mueller linear polarization modality at the usual rate of a laser scanning microscope,” Proc. SPIE 11076, Advances in Microscopic Imaging II, 1107616 (22 July 2019) . | G. Nteroli, S. Koutsikou, P. Moselund, A. Podoleanu, and Adrian Bradu, “Real-time multimodal high resolution biomedical imaging instrument using supercontinuum optical sources,” in Frontiers in Optics + Laser Science APS/DLS, The Optical Society (Optical Society of America, 2019), paper JTu3A.99. | Gianni Nteroli, Magalie Bondu, Peter M. Moselund, Adrian Podoleanu, and Adrian Bradu, “Developments on using supercontinuum sources for high resolution multi-imaging instruments for biomedical applications,” Proc. SPIE 11077, Opto-Acoustic Methods and Applications in Biophotonics IV, 110770N (19 July 2019). | Manuel Marques, Jasmine Pomeroy, Robert Green, Chris Deter, Adrian Bradu, and Adrian Podoleanu, “Improved visualization of decomposing tattoos using optical coherence tomography,” Proc. SPIE 11078, Optical Coherence Imaging Techniques and Imaging in Scattering Media III, 110781S (19 July 2019). | Adrian Podoleanu, Adrian Bradu, Manuel Marques, Sylvain Rivet, “Speeding up master slave optical coherence tomography by matrix manipulation,” Proc. SPIE 10889, High-Speed Biomedical Imaging and Spectroscopy IV, 1088908 (4 March 2019). | Manuel Marques, Adrian Bradu, Sylvain Rivet, and Adrian Podoleanu “Long axial range swept-source OCT instrument enhanced by complex master-slave processing,” Proc. SPIE 10867, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIII, 108672T (22 February 2019). | Mathis Fauchart, Manuel J. Marques, Adrian Bradu, and Adrian Podoleanu “Evaluation of a commercial-grade camera for line field spectral-domain optical coherence tomography,” Proc. SPIE 10867, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIII, 1086731 (22 February 2019). | Sylvain Rivet, Adrian Bradu, and Adrian Podoleanu “Employing the phase in master slave interferometry,” Proc. SPIE 10867, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIII, 108672V (22 February 2019). | . ",
+    "url": "/docs/proceedings/#2019",
+    "relUrl": "/docs/proceedings/#2019"
+  },"128": {
+    "doc": "Proceedings",
+    "title": "2018",
+    "content": ". | Adrian Bradu, Manuel Jorge M. Marques, Sylvain Rivet, Adrian Podoleanu, “Current capabilities and challenges for optical coherence tomography as a high impact non-destructive imaging modality,” in 7th International Conference on Lasers in Medicine, Proc. of SPIE 10831 (SPIE, Bellingham, WA 2018), 108310E. | Corina Mărcăuţeanu, Cosmin Sinescu, Marius Toader, Meda Lavinia Negrutiu, Felicia Elena Mitroi, Eniko Tunde Stoica, Florin Ionel Topala, Virgil-Florin Duma, Adrian Bradu, Adrian Podoleanu, “Biomimetic Tizian ‘table tops’ analyzed with swept source optical coherence tomography,” in 7th International Conference on Lasers in Medicine, Proc. of SPIE 10831 (SPIE, Bellingham, WA 2018), 108310M. | Gheorghe Hutiu, Alexandru-Lucian Dimb, Virgil-Florin Duma, Dorin Demian, Adrian Bradu, Adrian Podoleanu, “Roughness measurements using optical coherence tomography: a preliminary study,” in 7th International Conference on Lasers in Medicine, Proc. of SPIE 10831 (SPIE, Bellingham, WA 2018), 108310S. | Camelia Szuhanek, Cosmin Sinescu, Darinca Carmen Colojoara Todea, Oana Pop, Virgil-Florin Duma, Florin Ionel Topala, Mihai Rominu, Meda Lavinia Negrutiu, Adrian Bradu, Adrian Podoleanu, “Optical coherence tomography study regarding the enamel structure before and after debonding,” in 7th International Conference on Lasers in Medicine, Proc. SPIE 10831 (SPIE, Bellingham, WA 2018), 108310P. | Adrian Podoleanu, Sophie M. Caujolle, Manuel Jorge M. Marques, Ramona C. Cernat, Ranjan Rajendram, and Adrian Bradu, “From Doppler to speckle variance measurements in optical coherence tomography,” in 7th International Conference on Lasers in Medicine, Proc. SPIE 10831 (SPIE, Bellingham, WA 2018), 108310D. | A.-C. Măroiu, M. Romînu, C. Sinescu, M.-L. Negruțiu, F. Topală, V.-F. Duma, Adrian Bradu, A. Podoleanu, “Optoelectronic evaluation of indirect dental veneers interfaces,” Proc. SPIE 10831, 7th International Conference on Lasers in Medicine, 108310O (10 August 2018). | Manuel Jorge M. Marques, Adrian Bradu, Michael R. Hughes, Guang-Zhong Yang, Adrian Podoleanu, “Interchangeable side-viewing endoscopic probes for optical coherence tomography,” Proc. SPIE 10470, Endoscopic Microscopy XIII, 104700Q (14 March 2018). | Sophie M. Caujolle, Ramona C. Cernat, Giuseppe Silvestri, Manuel Jorge M. Marques, Adrian Bradu, Thomas Feuchter, Gary K. Robinson, Darren Griffin, Adrian Podoleanu, “Assessing embryo development using swept source optical coherence tomography,” in 2nd Canterbury Conference on OCT with Emphasis on Broadband Optical Sources, Ole Bang; Adrian Podoleanu, Editors, Proc. of SPIE 10591 (SPIE, Bellingham, WA 2018), 1059108 (5 March 2018). | A. Podoleanu, O. Bang, S. Bojesen, M. Bondu, Adrian Bradu, S. Caujolle, C. Chin, M. Denninger, T. Feuchter, F. Fleischhauer, M. Hædersdal, N. M. Israelsen, M. Jensen, I. B. Gonzalo, M. Maria, M. Marques, L. Leick, M. Mogensen, and P. M. Moselund, “Supercontinuum applications in high resolution non invasive optical imaging,” in Conference on Lasers and Electro-Optics, OSA Technical Digest (online) , paper AW3S.1 (San Jose, 13-18 May 2018). | Adrian Bradu, David A. Jackson, and Adrian Podoleanu, “Long axial imaging range using conventional swept source lasers in optical coherence tomography via re-circulation loops,” Proc. SPIE 10591, 2nd Canterbury Conference on OCT with Emphasis on Broadband Optical Sources, 105910T (5 March 2018).2017 | Cosmin Sinescu, Souman Barua, Florin Ionel Topala, Meda Lavinia Negrutiu, Virgil-Florin Duma, Alin Gabriel Gabor, Cristian Zaharia, Adrian Bradu, and Adrian Podoleanu , “Dental impression technique using optoelectronic devices,” Proc. SPIE 10591, 2nd Canterbury Conference on OCT with Emphasis on Broadband Optical Sources, 105910M (5 March 2018). | Raluca Todor, Meda-Lavinia Negrutiu, Cosmin Sinescu, Florin Ionel Topala, Adrian Bradu, Virgil-Florin Duma, Mihai Romînu, and Adrian Podoleanu, “Investigation of firing temperature variation in ovens for ceramic-fused-to-metal dental prostheses using swept source optical coherence tomography,” Proc. SPIE 10591, 2nd Canterbury Conference on OCT with Emphasis on Broadband Optical Sources, 105910I (5 March 2018). | M. Israelsen, M. Maria, T. Feuchter, Adrian Bradu, A. Podoleanu, and O. Bang, “Resolution dependence on phase extraction by the Hilbert transform in phase calibrated and dispersion compensated ultrahigh resolution spectrometer-based OCT,” Proc. SPIE 10591, 2nd Canterbury Conference on OCT with Emphasis on Broadband Optical Sources, 105910D (5 March 2018). | Miroslav Ďuriš, Adrian Bradu, Adrian Podoleanu, and Michael Hughes, “Towards an ultra-thin medical endoscope: multimode fibre as a wide-field image transferring medium,” Proc. SPIE 10591, 2nd Canterbury Conference on OCT with Emphasis on Broadband Optical Sources, 105910A (5 March 2018). | Ramona Cernat, Adrian Bradu, Sylvain Rivet, Adrian Podoleanu, “Time efficient Gabor fused master slave optical coherence tomography,” Proc. SPIE 10483, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXII, 104832L (14 February 2018). | Sinescu, Adrian Bradu, V.F. Duma, F. I. Topala, M. L. Negrutiu, and A. Podoleanu, “Temperature variations in sintering ovens for metal ceramic dental prostheses. Non-destructive assessment using OCT,” Proc. SPIE 10473, Lasers in Dentistry XXIV, 104730C (14 February 2018). | Manuel Marques, Sylvain Rivet, Adrian Bradu and Adrian Podoleanu, “Snapshot polarization-sensitive plug-in optical module for a Fourier-domain optical coherence tomography system,” Proc. SPIE 10483, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXII; 104832K (14 February 2018). | . ",
+    "url": "/docs/proceedings/#2018",
+    "relUrl": "/docs/proceedings/#2018"
+  },"129": {
+    "doc": "Proceedings",
+    "title": "2017",
+    "content": ". | Adrian Bradu, Sylvain Rivet, and Adrian Podoleanu, “Master/slave: the ideal tool for coherence revival based optical coherence tomography imaging instruments,” Proc. SPIE 10053, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXI, 100531R (17 February 2017). | Adrian Bradu, Sylvain Rivet, and Adrian Podoleanu, “Master/slave based optical coherence tomography for in-vivo, real-time, long axial imaging range of the anterior segment,” Proc. SPIE 10045, Ophthalmic Technologies XXVII, 1004518 (8 February 2017). | M.J. Marques, S. Rivet, Adrian Bradu, and A. Podoleanu, “Novel software package to facilitate operation of any spectral (Fourier) OCT system,” Proc. SPIE 10416, Optical Coherence Imaging Techniques and Imaging in Scattering Media II; 104160B (1 August 2017). | R. Cernat, Adrian Bradu, N. Israelsen, O. Bang, S. Rivet, P. Keane, D. Garway-Heath, R. Rajendram, A. Podoleanu, “Master/slave: a better tool for Gabor filtering optical coherence tomography imaging instruments,” Proc. SPIE 10416, Optical Coherence Imaging Techniques and Imaging in Scattering Media II, 104160N (1 August 2017). | Gh. Hutiu, V.-F. Duma, D. Demian, Adrian Bradu, A. Podoleanu, “Analysis of the fractures of metallic materials using optical coherence tomography,” Proc. SPIE 10329, Optical Measurement Systems for Industrial Inspection X, 103292D (26 June 2017). | Adrian Bradu, Sylvain Rivet, Adrian Podoleanu, “Replacing the Fourier transformation in optical coherence tomography with multiple comparison operations,” Proc. SPIE 10076, High-Speed Biomedical Imaging and Spectroscopy: Toward Big Data Instrumentation and Management II, 100761B (22 February 2017). | Manuel J. Marques, Sylvain Rivet, Adrian Bradu, and Adrian Podoleanu, “Polarization-sensitive plug-in optical module for a Fourier-domain optical coherence tomography system,” Proc. SPIE 10053, OCT and Coherence Domain Optical Methods in Biomedicine XXI, 100531B (17 February 2017). | . ",
+    "url": "/docs/proceedings/#2017",
+    "relUrl": "/docs/proceedings/#2017"
+  },"130": {
+    "doc": "Proceedings",
+    "title": "2016",
+    "content": ". | A. Podoleanu, Adrian Bradu, S. Rivet, K. Kapinchev, F. Barnes, M. Maria, T Feuchter, L. Leick, T. Garway-Heath, P. Keane, and R. Rajendram, “Direct real time en-face optical coherence tomography,” 2nd Biomedical Imaging and Sensing Conference (BISC’16), Pacifico Yokohama, Japan 18-20 May 2016. | C. Sinescu, V.-F. Duma, S. Canjau, G. Dobre, D. Demian, R. Cernat, M. L. Negrutiu, C. Todea, F. I. Topala, Gh. Hutiu, Adrian Bradu, and A. Podoleanu, “Dentistry investigations of teeth and dental prostheses using OCT,” Proc. SPIE 9887, Biophotonics: Photonic Solutions for Better Health Care V, 98870B (2016). | Adrian Bradu, Konstantin Kapinchev, Frederick Barnes, and Adrian Podoleanu, “In-vivo, real-time cross sectional images of retina using a GPU enhanced master slave optical coherence tomography system,” Proc. SPIE 9693, 96930S (2016). | M. Maria, M.J.M. Marques, C. Costa, Adrian Bradu, T. Feuchter, L. Leick, and A. Podoleanu, “Broadband master-slave interferometry using a super-continuum source,” Proc. SPIE 9697, 96972R (2016). | Manuel J. Marques, Sylvain Rivet, Adrian Bradu, and Adrian Podoleanu “Spectral-domain, polarization sensitive optical coherence tomography system insensitive to fiber disturbances,” Proc. SPIE 9697, 96971K (2016). | Konstantin Kapinchev, Adrian Bradu, Frederick Barnes, and Adrian Podoleanu, ““”Coarse-grained and fine grained parallel optimization for real-time en-face OCT imaging,” Proc. SPIE 9697, 96972N (2016). | Sylvain Rivet, Adrian Bradu, and Adrian Podoleanu, “Fast full 4×4 Mueller polarimeter for endoscopic applications,” Proc. SPIE 9700, Design and Quality for Biomedical Technologies IX, 970014 (2016). | . ",
+    "url": "/docs/proceedings/#2016",
+    "relUrl": "/docs/proceedings/#2016"
+  },"131": {
+    "doc": "Proceedings",
+    "title": "2015",
+    "content": ". | K. Kapinchev, Adrian Bradu, F. Barnes, and A. Podoleanu, “[GPU implementation of cross-correlation for image generation in real time]https://doi.org/10.1109/ICSPCS.2015.7391783,” $9^{th}$ International Conference on Signal Processing and Communication Systems (ICSPCS), 14-16 Dec. (2015). | V.F. Duma, G. Dobre, D. Demian, R. Cernat, C. Sinescu M.D., M. L. Negrutiu M.D., Gh. Hutiu, Adrian Bradu, J. P. Rolland, and A. Podoleanu, “Constructive solutions of handheld probes with galvanometer scanners for biomedical and industrial imaging: applications in OCT,” Proc. SPIE 9633, Optifab 2015 (2015). | V.-F. Duma, G. Dobre, D. Demian, R. Cernat, C. Sinescu, F.I. Topala, M.L. Negrutiu, Gh. Hutiu, Adrian Bradu, J.P. Rolland, and A. Podoleanu, “Handheld probes and galvanometer scanning for optical coherence tomography,”Proc. SPIE 9626, Optical Systems Design 2015: Optical Design and Engineering VI, 96261J (2015). | Adrian Bradu, Michael Maria, Lasse Leick, and Adrian Podoleanu, “[Novel dispersion tolerant interferometry method for accurate measurements of displacement](https://doi.org/10.1117/12.2184858”, Proc. SPIE 9525, 952509 (2015). | Adrian Bradu, Konstantin Kapinchev, Fred Barnes, and Adrian Podoleanu, “Real-time calibration-free C-scan images of the eye fundus using Master Slave swept source optical coherence tomography,” Proc. SPIE 9307, 93071C (2015). | Adrian Bradu, Konstantin Kapinchev, Fred Barnes, and Adrian Podoleanu, “Master-Slave optical coherence tomography for parallel processing, calibration free and dispersion tolerance operation,” Proc. SPIE 9312, 93123I (2015). | V.F. Duma, G. Dobre, D. Demian, R. Cernat, C. Sinescu, F.I. Topala, M.L. Negrutiu, Gh. Hutiu, Adrian Bradu, J. P. Rolland, and A. Podoleanu, “Handheld probes and galvanometer scanning for optical coherence tomography,” Proc. SPIE, 9670, 9670-1 (2015). | Adrian Bradu, Konstantin Kapinchev, Frederick Barnes, and Adrian Podoleanu, “En-face optical coherence tomography revival,” Proc. SPIE, 9670, 9670-49 (2015). | Corina Marcauteanu, Cosmin Sinescua Meda Lavinia Negrutiua, Eniko Tunde Stoica, Florin Topala, Virgil-Florin Duma, Adrian Bradu and Adrian Podoleanu, “Evaluation of Tizian overlays by means of a swept source optical coherence tomography system,” Proc. SPIE, 9670, 9670-88 (2015). | A. Gabor, A. Jivanescu, C. Zaharia, S. Hategana, F. I. Topala, C. M. Levai, M. L. Negrutiu, C. Sinescu, V.F. Duma, Adrian Bradu and A. Podoleanu, “OCT evaluation of single ceramic crowns: Comparison between conventional and chair-side CAD/CAM technologies,” Proc. SPIE 9670, 9670-90 (2015). | Eniko Tunde Stoica, Corina Marcauteanu, Cosmin Sinescu, Meda Lavinia Negrutiu, Florin Topala, Virgil-Florin Duma, Adrian Bradu, and Adrian Podoleanu, ”All ceramic “table tops” analyzed using swept source optical coherence tomography,” Proc. SPIE, 9670, 9670-90 (2015). | C. Zaharia, A. Gabora, C. Sinescu, F.I. Topala, M.L. Negrutiu, C. M. Levai, V.F. Duma, Adrian Bradu, and A. Podoleanu, “OCT and shear-force evaluations of Zirconia Fixed Partial Prosthesis processed with a conventional CAD/CAM technology,” Proc. SPIE 9670, 9670-108 (2015). | Florin Toadere, Adrian Bradu, Wallace Poon, David Shultz and Adrian Podoleanu, “Spectral delay line for display control in swept source OCT,” Proc. SPIE 9258, 92581X (2015). | . ",
+    "url": "/docs/proceedings/#2015",
+    "relUrl": "/docs/proceedings/#2015"
+  },"132": {
+    "doc": "Proceedings",
+    "title": "2014",
+    "content": ". | M. J. Marques, Adrian Bradu, and A. Podoleanu, “Optical Coherence Tomography and Scanning Laser Ophthalmoscopy: approaches to dual-channel retinal tissue imaging,” in Frontiers in Optics, OSA Technical Digest (Optical Society of America, 2014), paper FTu2F.3 | Philip Broadbridge, Adrian Bradu, Gurprit Lall, Adrian Podoleanu, “Imaging of neuronal tissue using a prism adjunct,” Proc. SPIE 8934, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XVIII, 893438 (2014). | Mantas Zurauskas, Adrian Bradu, and Adrian Podoleanu, “Frequency multiplexed long range swept source optical coherence tomography,” Proc. SPIE 8934, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XVIII, 89340L (2014). | Mohammadreza R. N. Avanaki, Manuel J. Marques, Adrian Bradu, Ali Hojjatoleslami, and Adrian Podoleanu, “A new algorithm for speckle reduction of optical coherence tomography images,” Proc. SPIE 8934, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XVIII, 893437 (2014). | Corina Marcauteanu, Adrian Bradu, Cosmin Sinescu, Florin I. Topala, Meda Lavinia Negrutiu and Adrian Podoleanu, “Towards using spectral domain optical coherence tomography for dental wear monitoring,” Proc. SPIE 8934, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XVIII, 89343A (2014). | Cosmin Sinescu, Adrian Bradu, Florin Topala, Meda Lavinia Negrutiu, Virgil-Florin Duma, and Adrian Podoleanu, “Integral ceramic superstructure evaluation using time domain optical coherence tomography,” Proc. SPIE 8929, 89290N (2014). | Corina Marcauteanu, Adrian Bradu, Cosmin Sinescu, Florin Ionel Topala, Meda Lavinia Negrutiu, Virgil Florin Duma, Adrian Podoleanu, “The advantages of a swept source optical coherence tomography system in the evaluation of occlusal disorders,” Proc. SPIE 8925, $5^{th}$ International Conference on Lasers in Medicine: Biotechnologies Integrated in Daily Medicine, 89250W (2014). | Eniko T. Stoica, Corina Marcauteanu, Adrian Bradu, Cosmin Sinescu, Florin Ionel Topala, Meda Lavinia Negrutiu, Virgil Florin Duma, Adrian Podoleanu, “Imaging of noncarious cervical lesions by means of a fast swept source optical coherence tomography system,” Proc. SPIE 8925, $5^{th}$ International Conference on Lasers in Medicine: Biotechnologies Integrated in Daily Medicine, 89250Y (2014). | Meda L. Negrutiu, Cosmin Sinescu, Adrian Manescu, Florin I. Topala, Bogdan Hoinoiu, Corina Marcauteanu, Virgil-Florin Duma, Adrian Bradu, Adrian Gh. Podoleanu, “Imagistic evaluation of matrix bone interface,” Proc. SPIE 8925, $5^{th}$ International Conference on Lasers in Medicine: Biotechnologies Integrated in Daily Medicine, 89250U (2014) – Invited paper | . ",
+    "url": "/docs/proceedings/#2014",
+    "relUrl": "/docs/proceedings/#2014"
+  },"133": {
+    "doc": "Proceedings",
+    "title": "2013",
+    "content": ". | Konstantin I. Kapinchev, Fred R.M. Barnes, Adrian Bradu, and Adrian Podoleanu, “Approaches to General Purpose GPU Acceleration of Digital Signal Processing in Optical Coherence Tomography Systems,” IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2013, 2576-2580, (13-16 Oct. 2013); doi: 10.1109/SMC.2013.440. | Adrian Bradu, and Adrian G. Podoleanu, “Artifacts cancellation in Fourier domain optical coherence tomography using balance detection,” Proc. SPIE 8785, 8785E4 (2013). | Manuel J. Marques, Adrian Bradu, and Adrian Podoleanu, “Tuning a fast linear camera used within a Talbot bands spectrometer-based optical coherence tomography set-up,” Proc. SPIE 8785, 8785E1 (2013). | Christopher Costa, John Rogers, Adrian Bradu, and Adrian Podoleanu, “Control of focusing in high resolution eye imaging and microscopy using a deformable mirror,” Proc. SPIE 8802, 88020C (2013). | Adrian Bradu and Adrian Podoleanu, “Evaluating the benefits of using balance detection in Fourier domain optical coherence tomography,” Proc. SPIE 8802, 880206 (2013). | Meda-Lavinia Negrutiu, Cosmin Sinescu, Silvana Canjau, Adrian Manescu, Florin Ionel Topala, Bogdan Hoinoiu, Mihai Rominu, Corina Marcauteanu, Virgil Duma, Adrian Bradu, Adrian Podoleanu, “Bone regeneration assessment by optical coherence tomography and MicroCT synchrotron radiation”, Proc. SPIE 8802, 880204 (2013). | Adrian Bradu, Manuel Marques, Petr Bouchal, and Adrian Podoleanu, “Combining Gabor and Talbot bands techniques to enhance the sensitivity with depth in Fourier domain optical coherence tomography,” Proc. SPIE 8571, 857136 (2013). | . ",
+    "url": "/docs/proceedings/#2013",
+    "relUrl": "/docs/proceedings/#2013"
+  },"134": {
+    "doc": "Proceedings",
+    "title": "2012",
+    "content": ". | Ramona Cernat, Taran Tatla, Jingyin Pang, Paul J. Tadrous, Grigory V. Gelikonov, Valentin M. Gelikonov, Yuying Y. Zhang, Adrian Bradu, Xingde Li and Adrian Podoleanu, “Ex-vivo endoscopic laryngeal cancer imaging using two forward-looking fiber optic scanning endoscope probes,” Proc. SPIE 8553, Optics in Health Care and Biomedical Optics V, (2012). | Taran Tatla, Jing-Yin Pang, Ramona C. Cernat, George M. Dobre, Paul J. Tadrous, Adrian Bradu, Grigory V. Gelikonov, Valentin M. Gelikonov, and Adrian Podoleanu, “Phantom testing of a novel endoscopic OCT probe: a prelude to clinical in-vivo laryngeal use,” Proc. SPIE 8553, Optics in Health Care and Biomedical Optics V, (2012). | Adrian Bradu, Petr Bouchal, and Adrian Podoleanu, “Enhancement of the signal-to-noise ratio at depths in Fourier domain optical coherence tomography,” Proc. SPIE 8213, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XVI, (2012). | R. Cernat, Y.Y. Zhang, Adrian Bradu, T. Tatla, P.J. Tadrous, X.D. Li, and Adrian Podoleanu, “Ex vivo optical coherence tomography imaging of larynx tissues using a forward-viewing resonant fiber-optic scanning endoscope,” Proc. SPIE 8213, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XVI, (2012). | John Rogers, Adrian Bradu, and Adrian Podoleanu, “Multiple-depth en-face optical coherence tomography using active recirculation loops in the non-stationary state,” Proc. SPIE 8213, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XVI, (2012). | . ",
+    "url": "/docs/proceedings/#2012",
+    "relUrl": "/docs/proceedings/#2012"
+  },"135": {
+    "doc": "Proceedings",
+    "title": "2011",
+    "content": ". | Cosmin Sinescu, Meda Negrutiu, Florin Topala, Ciprian Ionita, Radu Negru, Mihai Fabriky, Corina Marcauteanu, Adrian Bradu, George Dobre, Liviu Marsavina, Mihai Rominu, and Adrian Podoleanu, “Ceramic and polymeric dental onlays evaluated by photo-elasticity, optical coherence tomography, and micro-computed tomography,” Proc. SPIE 8172, Optical Complex Systems: OCS11, 817208 (2011). | Cosmin Sinescu, Meda Lavinia Negrutiu, Ciprian Ionita, Liviu Marsavina, Radu Negru, Florin Topala, Emanuela Petrescu, Roxana Rominu, Mihai Fabriky, Adrian Bradu, Mihai Rominu and Adrian Podoleanu, “Biomedical implications of dental-ceramic defects investigated by numerical simulation, radiographic, microcomputer tomography, and time-domain optical coherence tomography,” Proc. SPIE 8172, Optical Complex Systems: OCS11, 817207 (2011). | Emanuela Petrescu, Cosmin Sinescu, Meda Lavinia Negrutiu, Daniela Pop, Roxana Rominu, Marius Enescu, Mihai Rominu, Adrian Bradu, George Dobre and Adrian Podoleanu, “OCT and RX validation of metalceramic crowns repaired with ceramic material,” Proc. SPIE 8172, Optical Complex Systems: OCS11, 817213 (2011). | Irina Trifanov, Adrian Bradu, Liviu Neagu, Antonio Lobo Ribeiro and Adrian Podoleanu, “Dual excitation waveform Fabry-Perot tunable filters used in swept sources,” Proc. SPIE 8091, Optical Coherence Tomography and Coherence Techniques V, 80910X (2011). | Corina Marcauteanu, Meda Negrutiu, Cosmin Sinescu, Eniko Tunde Stoica, Ciprian Ionita, Topala Florin, Liliana Vasile, Adrian Bradu, George Dobre, and Adrian Podoleanu,“Early characterization of occlusal overloaded cervical dental hard tissues by en-face optical coherence tomography,” Proc. SPIE 8091, Optical Coherence Tomography and Coherence Techniques V, 80911X (2011). | Meda L. Negrutiu, Luminita Nica, Cosmin Sinescu, Florin Topala, Ciprian Ionita, Adrian Bradu, Emanuela L. Petrescu, Daniela M. Pop, Mihai Rominu and Adrian Podoleanu, “SEM and microCT validation for en-face OCT imagistic evaluation of endodontically treated human teeth,” Proc. SPIE 7961, Medical Imaging: Physics of Medical Imaging, 79614W (2011). | Adrian Bradu, Liviu Neagu, John Rogers and Adrian Podoleanu, “Generating multiple depth en-face images in optical coherence tomography,” Proc. SPIE 7889, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XV, 78891Y (2011). | Irina Trifanov, Liviu Neagu, Adrian Bradu, Antonio Lobo Ribeiro and Adrian Podoleanu, “Characterization of a fibre optic swept laser source at 1 μm for optical coherence tomography imaging systems,” Proc. SPIE 7889, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XV, 78892T (2011). | Alexander Meadway, Adrian Bradu, Mark Hathaway, Sam Van der Jeught, Richard B. Rosen, and Adrian Podoleanu, “Adaptive optics assisted Fourier domain OCT with balanced detection,” Proc. SPIE 7889, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XV, 78892H (2011). | Adrian Bradu, Sam Van der Jeught, Doug Malchow and Adrian Podoleanu, “High-speed (92 kHz) Fourier domain optical coherence tomography system in the 1 $\\mu$m band with real-time data re-sampling,” Proc. SPIE 7889, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XV, 78892E (2011). | Cosmin Sinescu, Meda Lavinia Negrutiu, Ciprian Ionita, Florin Topala, Emanuela Petrescu, Roxana Rominu, Daniela Maria Pop, Liviu Marsavina, Radu Negru, Adrian Bradu, Mihai Rominu, and Adrian Podoleanu, “Radiographic, microcomputer tomography, and optical coherence tomography investigations of ceramic interfaces,” Proc. SPIE 7990, Optical Sensors and Biophotonics II, 79900W (2011). | . ",
+    "url": "/docs/proceedings/#2011",
+    "relUrl": "/docs/proceedings/#2011"
+  },"136": {
+    "doc": "Proceedings",
+    "title": "2010",
+    "content": ". | Meda L. Negrutiu, Cosmin Sinescu, Florin Topala, Luminita Nica, Ciprian Ionita, Corina Marcauteanu, Luciana Goguta, Adrian Bradu, George Dobre, Mihai Rominu, and Adrian Podoleanu, “Root canal filling evaluation using optical coherence tomography,” Proc.SPIE 7715, Biophotonics: Photonic Solutions for Better Health Care II, 77151T (2010). | Mihai Rominu, Cosmin Sinescu, Meda L. Negrutiu, Roxana O. Rominu, Daniela M. Pop, Florin Topala, Adelina Stoia, Emanuela Petrescu, Adrian Bradu, George Dobre and Adrian Podoleanu, “Adhesive improvement in optical coherence tomography combined with confocal microscopy for class V cavities investigations,” Proc. SPIE 7626, Medical Imaging: Biomedical Applications in Molecular, Structural, and Functional Imaging, 76260Y (2010). | Cosmin Sinescu, Meda L. Negrutiu, Ciprian Ionita, Liviu Marsavina, Radu Negru, Cristiana Caplescu, Adrian Bradu, Florin Topala, Roxana O. Rominu, Emanuela Petrescu, Marius Leretter, Mihai Rominu and Adrian Podoleanu, “Morphological characterization of dental prostheses interfaces using optical coherence tomography,” Proc. SPIE 7626, Medical Imaging 2010: Biomedical Applications in Molecular, Structural, and Functional Imaging, 76261P (2010). | Corina Marcauteanu, Enikö Demjan, Cosmin Sinescu, Meda Negrutiu, Adrian Motoc, Rodica Lighezan, Liliana Vasile, Mike Hughes, Adrian Bradu, George Dobre and Adrian Podoleanu, “Preliminary optical coherence tomography investigation of the temporo-mandibular joint disc,” Proc. SPIE 7554, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XIV, 75542G (2010). | Enikö Demjan, Corina Marcauteanu, Dorin Bratu, Cosmin Sinescu, Meda Negrutiu, Ciprian Ionita, Florin Topala, Michael Hughes, Adrian Bradu, George Dobre and Adrian Podoleanu, “Analysis of dental abfractions by optical coherence tomography,” Proc. SPIE 7549, Lasers in Dentistry XVI, 754903 (2010). | Adrian Podoleanu, Michael Hughes, Adrian Bradu, and Daniel Woods, “ controlling the shape of Talbot bands’ visibility to improving the sensitivity decay with depth in FD-OCT,” Proceedings of SPIE 7554, 75541S (2010). | Sam Van der Jeught, Adrian Bradu, and Adrian Podoleanu,“Real-Time resampling in FD-OCT using a graphics processing unit,” in Biomedical Optics, OSA Technical Digest (CD) (Optical Society of America, 2010), paper BSuD13. | F.I. Topala, C. Sinescu, M. L.Negrutiu, Adrian Bradu, M. Rominu and A. Podoleanu, “3D Reconstructions of Resin Dental Fillings based on en-face OCT Images,” International Conference on Cellular and Molecular Biology, Biophysics and Bioengineering (Bio ’10), 8th Wseas Intern. Conf. on Environment, Ecosystems and Development (Eed ’10), Intern.l Conf. Bioscience and Bioinformatics (Icbb ’10), Athens, Greece WSEAS Press, Proc. of WSEAS, 19-22 (2010). | Marius Enescu, Cosmin Sinescu, Meda Negrutiu, Radu Negru, Liviu Marsavina, Florin Topala, Roxana Rominu, Emanuela Petrescu, Adrian Bradu, George Dobre, Mihai Rominu, Adrian Podoleanu, “Amalgam and Composite Resin Interface Investigation by Opical Coherence Tomography,” Advances in communications, computers, systems, circuits and devices, European Conference of Systems (ECS ’10),European Conference of Circuits Technology and Devices (ECCTD ’10) European Conference of ommunications (ECCOM ’10) European Conference of Computer Science (ECCS ’10), Puerto De La Cruz, Tenerife, Proceedings of WSEAS, 316-322 (2010). | Cosmin Sinescu, Meda Negrutiu, Ciprian Ionita, Radu Negru, Liviu Marsavina, Forin Topala, Roxana Rominu, Emanuela Petrescu, Alexandru Ogodescu, Mihai Fabricky, Adrian Bradu, George Dobre, Mihai Rominu, Adrian Podoleanu, “Ceramic Veneers Integrity Investigation by Opical Coherence Tomography and MicroComputer Tomography,” Selected topics in applied computing, Applied computing conference 2010 (ACC’10), Timisoara, Proceedings of WSEAS 95-101 (2010). | . ",
+    "url": "/docs/proceedings/#2010",
+    "relUrl": "/docs/proceedings/#2010"
+  },"137": {
+    "doc": "Proceedings",
+    "title": "2009",
+    "content": ". | Cosmin Sinescu, Meda-Lavinia Negrutiu, Emanuela Petrescu, Mihai Rominu, Corina Marcauteanu, Roxana Rominu, Michael Hughes, Adrian Bradu, George Dobre and Adrian Podoleanu, “Marginal adaptation of ceramic veneers investigated with en-face optical coherence tomography,” Proc. SPIE 7372, Optical Coherence Tomography and Coherence Techniques IV, 73722C (2009). | Mihai Rominu, Cosmin Sinescu, Emanuela Petrescu, Claudiu Haiduc, Roxana Rominu, Marius Enescu, Michael Hughes, Adrian Bradu, George Dobre, and Adrian Podoleanu, “Optical coherence tomography combined with confocal microscopy for investigation of interfaces in class V cavities,” Proc. SPIE 7372, Optical Coherence Tomography and Coherence Techniques IV, 737228 (2009). | Corina Marcauteanu, Meda Negrutiu, Cosmin Sinescu, Enikö Demjan, Michael Hughes, Adrian Bradu, George Dobre, and Adrian Podoleanu, “Occlusal overload investigations by non-invasive technology: fluorescence microscopy and en-face optical coherence tomography,” Proc. SPIE 7372, Optical Coherence Tomography and Coherence Techniques IV, 737227 (2009). | Carmen Todea, Cosmin Balabuc, Laura Filip, Mircea Calniceanu, Adrian Bradu, Michael Hughes, and Adrian Podoleanu, “Investigation of Er:YAG laser root canal irradiation using en-face OCT,” Proc. SPIE 7372, Optical Coherence Tomography and Coherence Techniques IV, 73721C (2009). | Meda Negrutiu, Cosmin Sinescu, Florin Topala, Mihai Rominu, Dubravka Markovic, Daniela Pop, Michael Hughes, Adrian Bradu, George Dobre and Adrian Podoleanu,“En-face optical coherence tomography investigation of interface fiber posts/adhesive cement/root canal wall,” Proc. SPIE 7372, Optical Coherence Tomography and Coherence Techniques IV, 73721A (2009). | Cosmin Sinescu, Meda Negrutiu, Dana Pop, Lavinia Cuc, Aldo DeSabata, Radu Negru, Mihai Hluscu, Mihai Rominu, Corina Marcauteanu, Eniko Demjan, Adrian Bradu, Iulian Antoniac, George Dobre and Adrian Gh.Podoleanu, “The importance of holograms in dentistry,” Proc. SPIE 7358, Holography: Advances and Modern Trends, 73580J (2009). | Cosmin Sinescu, Meda Lavinia Negrutiu, Liviu Marsavina, Radu Negru, Mihai Hluscu, Cristiana Caplescu, Adrian Bradu, Michael Hughes, Mihai Rominu, and Adrian Podoleanu, “Effect of masticatory load on crack deflection/penetration investigated with en-face optical coherence tomography in ceramic fixed partial dentures,” Proc. SPIE 7258, Medical Imaging 2009: Physics of Medical Imaging, 72584K (2009). | Cosmin Sinescu, Meda Lavinia Negrutiu, Sergiu Antonie, George Dobre, Adrian Bradu, Michael Hughes, Mihai Rominu, and Adrian Podoleanu, “Marginal adaptation analysis performed with en-face optical coherence tomography in fixed partial dentures,“ Proc. SPIE 7258, Medical Imaging 2009: Physics of Medical Imaging, 72584H (2009). | Corina Marcauteanu, Meda Negrutiu, Cosmin Sinescu, Eniko Demjan, Mike Hughes, Adrian Bradu, George Dobre and Adrian Gh. Podoleanu, “Early detection of tooth wear by en-face optical coherence tomography,” Proc. SPIE 7162, Lasers in Dentistry XV, 716205 (2009). | Adrian Bradu, Lisha Ma, James Bloor and Adrian Podoleanu, “Sequential en-face optical coherence tomography imaging and monitoring of Drosophila Melanogaster larval heart,” Proceedings of SPIE 7168, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XIII, 71680G (2009). | R. Rominu, C. Sinescu, D.M. Pop, M. Hughes, Adrian Bradu, M. Rominu, and A. Podoleanu, “En-Face Optical Coherence Tomography and Fluorescence in Evaluation of Orthodontic Interfaces,” World Academy of Science, Engineering and Technology 56, 641-644, (2009). | C. Sinescu, M. Negrutiu, R. Tatar, L. Vasile, R. Negru, M. Hluscu, L. Culea, M. Romînu, L. Marsavina, G.M. Dobre, Adrian Bradu, C. Marcauteanu, E. Demjan, and Adrian Gh. Podoleanu, “Interfaces between bone and bone substitutes investigations by invasive and non invasive methods,” Medicine in Evolution, XV (2) , 67-76 (2009). | C. Sinescu, M. Negrutiu, N.M.Birtea, E.Petrescu, R. Rominu, C. Marcautean, E. Demjan, L.Cuc, M. Hughes, Adrian Bradu, G.Dobre, M. Rominu, and A. Podoleanu, “Time Domain and Spectral Optical Coherence Tomography Investigations of Integral Ceramic Fixed Partial Dentures,” MN’09: Proceedings of the $2^{nd}$ International Conference on Maritime and Naval Science and Engineering, Book Series: Mathematics and Computers in Science and Engineering, 77-81 (2009). | . ",
+    "url": "/docs/proceedings/#2009",
+    "relUrl": "/docs/proceedings/#2009"
+  },"138": {
+    "doc": "Proceedings",
+    "title": "2008",
+    "content": ". | C. Sinescu, M. Negrutiu, M. Hughes, Adrian Bradu, M. Rominu, P.L. Laissue, G. Dobre, and A. Podoleanu, “Complex Identification of Material Defects in Ceramic Fixed Partial Dentures using the Optical Coherence Tomography (OCT) and Confocal Microscopy,” Medicine in Evolution XIV(2), 29 – 33 (2008). | C. Sinescu, M. Negrutiu, M. Hughes, Adrian Bradu, G. Dobre, M. Romînu, and A. Podoleanu, “Combining Optical Coherence Tomography and Confocal Microscopy in Detection of Material Defects in Ceramic Fixed Partial Dentures,” Medicine in Evolution XIV(2), 34 – 37(2008). | Adrian Bradu, Lisha Ma, James Bloor and Adrian Gh. Podoleanu, “Using en-face optical coherence tomography to analyse gene function in Drosophila Melanogaster larval heart,” Proc. SPIE 7139, 1st Canterbury Workshop on Optical Coherence Tomography and Adaptive Optics, 71390G (2008). | Roxana Otilia Rominu, Cosmin Sinescu, Mihai Rominu, Meda Negrutiu, Philippe Laissue, Sorin Mihali, Lavinia Cuc, Michael Hughes, Adrian Bradu and Adrian Podoleanu, “An innovative approach for investigating the ceramic bracket-enamel interface – optical coherence tomography and confocal microscopy,” Proc. SPIE 7139, 1st Canterbury Workshop on Optical Coherence Tomography and Adaptive Optics, 71390O (2008). | Meda L. Negrutiu, Cosmin Sinescu, Michael Hughes, Adrian Bradu, Mihai Rominu, Carmen Todea, George Dobre, and Adrian Podoleanu, “Optical coherence tomography and confocal microscopy investigations of dental prostheses,” Proc. SPIE 7139, 1st Canterbury Workshop on Optical Coherence Tomography and Adaptive Optics, 71390N (2008). | Carmen Todea, Cosmin Balabuc, Cosmin Sinescu, Meda Negrutiu, Laura Filip, Adrian Bradu, and Adrian Podoleanu, “En-face OCT microleakage investigation after laser-assisted dental hard tissue treatment,” Proc. SPIE 7139, 1st Canterbury Workshop on Optical Coherence Tomography and Adaptive Optics, 71390M (2008). | Liviu Neagu, Antonio B. Lobo Ribeiro, Radu Cucu, Adrian Bradu, Lisha Ma, and Adrian Podoleanu, “En-face OCT system at 1060 nm,” Proc. SPIE 7139, 1st Canterbury Workshop on Optical Coherence Tomography and Adaptive Optics, 71390B(2008). | Simon Tuohy, Adrian Bradu, Fabrice Harms, Nicolas Chateau, and Adrian Gh. Podoleanu, “Adaptive optics loop for en-face optical coherence tomography and laser scanning confocal microscopy,” Proc. SPIE 7139, 1st Canterbury Workshop on Optical Coherence Tomography and Adaptive Optics, 713910 (2008). | Bhanu Rakesh Penmetsa, Mona Khandwala, Adrian Bradu, Michael Hughes, Carole A. Jones, John Schofield and Adrian Podoleanu, “Imaging of basal cell carcinoma tissue using en-face OCT,” Proc. SPIE 7139, 1st Canterbury Workshop on Optical Coherence Tomography and Adaptive Optics, 71390J (2008). | Meda L. Negrutiu, Cosmin Sinescu, Michael Hughes, Adrian Bradu, Luciana Goguta, Mihai Rominu, Radu Negru, and Adrian Podoleanu, “Fibres reinforced dentures investigated with en-face optical coherence tomography,” Proc. SPIE 6991, 69911U (2008). | Meda L. Negrutiu, Cosmin Sinescu, Michael Hughes, Adrian Bradu, Carmen Todea, Cosmin I. Balabuc, Laura M. Filip and Adrian Podoleanu, “Root canal filling evaluation using optical coherence tomography,” Proc. SPIE 6991, Biophotonics: Photonic Solutions for Better Health Care, 69911T (2008). | Cosmin Sinescu, Meda Negrutiu, Michael Hughes, Adrian Bradu, Carmen Todea, Mihai Rominu, Philippe L. Laissue and Adrian Podoleanu, “An optical coherence tomography investigation of materials defects in ceramic fixed partial dental prostheses,” Proc. SPIE 6991, Biophotonics: Photonic Solutions for Better Health Care, 69910O (2008). | Adrian Bradu, Lisha Ma, James Bloor and Adrian Podoleanu, “Combining confocal microscopy and optical coherence tomography for imaging in developmental biology,” Proc. SPIE 6991, Biophotonics: Photonic Solutions for Better Health Care, 69910K (2008). | Cosmin Sinescu, Meda L. Negrutiu, Michael Hughes, Adrian Bradu, Carmen Todea, Roxana Rominu, Dorin Dodenciu, Philippe L. Laissue, and Adrian Podoleanu,“Investigation of bracket bonding for orthodontic treatments using en-face optical coherence tomography,” Proc. SPIE 6991, Biophotonics: Photonic Solutions for Better Health Care, 69911M (2008). | Cosmin Sinescu, Michael Hughes, Adrian Bradu, Meda Negrutiu, Carmen Todea, Sergiu Antonie, Philippe L.Laissue, Mihai Rominu, and Adrian Podoleanu, “Implant bone interface investigated with a non-invasive method: optical coherence tomography,” Proc. SPIE 6991, Biophotonics: Photonic Solutions for Better Health Care, 69911L (2008). | Ramona Cernat, George M. Dobre, Irina Trifanov, Liviu Neagu, Adrian Bradu, Michael Hughes and Adrian Gh. Podoleanu, “Investigations of OCT imaging performance using a unique source providing several spectral wavebands,” Proc. SPIE 6847, 68470U (2008). | Adrian Bradu, Lisha Ma, James Bloor and Adrian Gh. Podoleanu, “Versatile confocal/optical coherence tomography system for embryonic developmental imaging,” Proc. SPIE 6847, Coherence Domain Optical Methods and Optical Coherence Tomography in Biomedicine XII, 68471W (2008). | . ",
+    "url": "/docs/proceedings/#2008",
+    "relUrl": "/docs/proceedings/#2008"
+  },"139": {
+    "doc": "Proceedings",
+    "title": "2007",
+    "content": ". | Simon Tuohy, Adrian Bradu, Adrian Podoleanu and Nicolas Chateau, “Correcting ocular aberrations with a high stroke deformable mirror,” Proc. SPIE 6627, Optical Coherence Tomography and Coherence Techniques III, , 66271L (2007). | Adrian Podoleanu, Adrian Bradu, George M. Dobre, Ramona Cernat, R. B. Rosen, P. Garcia, J. A. Rogers, M. Hathaway, J. Pedro, David Merino and Chris Dainty, “Progress in the en-face optical coherence tomography applied to eye imaging,” Proc. SPIE 6606, Advanced Laser Technologies, 66061A (2007). | Adrian Bradu, Adrian Podoleanu, David Merino, and Chris Dainty, “Design Criteria of an Adaptive Optics–OCT/SLO System,” in Biomedical Optics, Technical Digest (CD) (Optical Society of America, 2006), paper WC1. | David Merino, Adrian Bradu, Chris Dainty and Adrian Gh. Podoleanu, “Improvement of in-vivo en-face OCT retinal images using adaptive optics,” Proc. SPIE 6018, Biomedical Vibrational Spectroscopy VI: Advances in Research and Industry, 601802 (2005). | Adrian Bradu, Raphael Sablong, C. Julien, I. Tropres, J.F. Payen and Jacques Derouard, “In-vivo absorption spectroscopy in brain using small optical fiber probes: effect of blood confinement,” Proc. SPIE 4432, Diagnostic Optical Spectroscopy in Biomedicine, 85 (2001). | Adrian Bradu and Jacques Derouard, “Spectrophotometry in turbid media using small optical fiber probes,” Biomed. Top. Meeting Proc. BWA5 Novel Probes and Sensors (1999). | . ",
+    "url": "/docs/proceedings/#2007",
+    "relUrl": "/docs/proceedings/#2007"
+  },"140": {
+    "doc": "Proceedings",
+    "title": "Proceedings",
+    "content": " ",
+    "url": "/docs/proceedings/",
+    "relUrl": "/docs/proceedings/"
+  },"141": {
+    "doc": "Talks",
+    "title": "Recent oral presentations",
+    "content": ". | Photoacoustic Imaging - an introduction, Lecture for Master/PhD students enroled on the Applications of Laser Technologies course at Tampere University, Finland, 4 February 2022. | Combining photoacoustic and optical coherence tomography imaging for non-destructive applications, Advances in 3OM: Opto-Mechatronics, Opto-Mechanics, and Optical Metrology, Timisoara, 13 December 2021 (Invited). | Exploring the biological tissue (and not only) using light – a short story on ballistic photons, the sound of light and seeing the unseen, talk for PhySoc (Physics student-led society at University of Kent), 8 April 2021 (Facebook). | Exploring the biological tissue using light, talk for PLANKS (Physics League Across Numerous Countries for Kick-Ass Students), 20 February 2021 (Youtube). | High-pulse energy supercontinuum sources for multi-spectral photoacoustic imaging in the near-infrared wavelength region, by Manoj K. Dasa, Kyei Kwarkye, Gianni Nteroli, Oyewole B. Efunbajo, Magalie Bondu, Getinet Woyessa, Niels M. Israelsen, Adrian Bradu, Christian R. Petersen, Peter M. Moselund, Patrick Bowen, Christos Markos, Ole Bang, Paper 11234-10, Fiber Mid-Infrared Supercontinuum and Biomedical Science 2 February 2020, Part of SPIE Photonics West; invited talk, presented by CP. | Progress on developing a multimodality imaging instrument: Optical Coherence Tomography/ Photo-acoustic Tomography, Shape OCT Meeting – University of Kent, Canterbury, 14 May 2019 (Invited) . | OCT imaging of the retina and cornea in real time – IGT Network+ Meeting – University of Kent, Canterbury, 8 February 2018 (Invited). | Current Capabilities and Challenges for Optical Coherence Tomography As a High Impact Non-destructive Imaging Modality – 7th Conference on Lasers in Medicine, Advanced Laser Technologies in the hands of medicine, Timisoara, 13-15 June 2017 (Invited). | Optical Coherence Tomography (OCT). From Newton rings to Master/Slave – Université de Bretagne Occidentale (UBO), UFR Sciences et Techniques, Brest, France, 14 June 2017. (Invited). | Master/slave: a better tool for Gabor filtering optical coherence tomography imaging instruments at the European Conferences on Biomedical Optics, Munich, 29 June 2017. | Master slave enhanced low coherence interferometry based proximity sensors for medical robotics at the 2nd Canterbury Conference on OCT with Emphasis on Broadband Optical Sources, Canterbury, 8 September 2017. | . ",
+    "url": "/docs/talks/#recent-oral-presentations",
+    "relUrl": "/docs/talks/#recent-oral-presentations"
+  },"142": {
+    "doc": "Talks",
+    "title": "Talks",
+    "content": " ",
+    "url": "/docs/talks/",
+    "relUrl": "/docs/talks/"
+  },"143": {
+    "doc": "Teaching",
+    "title": "My teaching duties",
+    "content": " ",
+    "url": "/docs/teaching/#my-teaching-duties",
+    "relUrl": "/docs/teaching/#my-teaching-duties"
+  },"144": {
+    "doc": "Teaching",
+    "title": "2022/2023",
+    "content": ". | PHYS6040: Modern Optics (Fundamentals of Lasers and Polarisation of Light) + Special Relativity + Maxwell’s Equations | PHYS3220: Waves, Electric Circuits | PHYS7000: Research Project MPhys | . ",
+    "url": "/docs/teaching/#20222023",
+    "relUrl": "/docs/teaching/#20222023"
+  },"145": {
+    "doc": "Teaching",
+    "title": "2021/2022",
+    "content": ". | PHYS6040: Modern Optics (Fundamentals of Lasers and Polarisation of Light) + Special Relativity + Maxwell’s Equations | PHYS3220: Electric Circuits | PHYS7000: Research Project MPhys | . ",
+    "url": "/docs/teaching/#20212022",
+    "relUrl": "/docs/teaching/#20212022"
+  },"146": {
+    "doc": "Teaching",
+    "title": "2020/2021",
+    "content": ". | PH604: Modern Optics (Fundamentals of Lasers and Polarisation of Light) + Special Relativity + Maxwell’s Equations | PH322: Electric Circuits | PH700: Research Project MPhys | PH800: Biomedical Optics (understanding MS-OCT) | . ",
+    "url": "/docs/teaching/#20202021",
+    "relUrl": "/docs/teaching/#20202021"
+  },"147": {
+    "doc": "Teaching",
+    "title": "2019/2020",
+    "content": ". | PH604: Modern Optics (Fundamentals of Lasers and Polarisation of Light) + Special Relativity | PH504: Magnetostatics | PH322: Electric Circuits | PH700: Research Project MPhys | . ",
+    "url": "/docs/teaching/#20192020",
+    "relUrl": "/docs/teaching/#20192020"
+  },"148": {
+    "doc": "Teaching",
+    "title": "2018/2019",
+    "content": ". | PH604: Modern Optics (Fundamentals of Lasers and Polarisation of Light) + Special Relativity | PH504: Magnetostatics | PH322: Electric Circuits | PH700: Research Project MPhys | . ",
+    "url": "/docs/teaching/#20182019",
+    "relUrl": "/docs/teaching/#20182019"
+  },"149": {
+    "doc": "Teaching",
+    "title": "Teaching",
+    "content": " ",
+    "url": "/docs/teaching/",
+    "relUrl": "/docs/teaching/"
+  }
+}

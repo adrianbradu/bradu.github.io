@@ -1,0 +1,12 @@
+I"2<h1 id="recovering-distance-information-in-spectral-domain-interferometry">Recovering distance information in spectral domain interferometry</h1>
+
+<h2 id="authors">Authors</h2>
+<p><strong>Adrian Bradu</strong>,  <a href="http://www.dtu.dk/english/service/phonebook/person?id=36184&amp;tab=2&amp;qt=dtupublicationquery">Niels Møller Israelsen</a>, Michael Maria, <a href="https://research.kent.ac.uk/appliedoptics/person/dr-manuel-jorge-marques/">Manuel J. Marques</a>, <a href="https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/RIVET-Sylvain/">Sylvain Rivet</a>,
+Thomas Feuchter, <a href="http://www.dtu.dk/english/service/phonebook/person?id=6148&amp;tab=1">Ole Bang</a> and  <a href="https://www.kent.ac.uk/physical-sciences/staff/profiles/academics/adrian-podoleanu.html">Adrian Podoleanu</a></p>
+
+<h2 id="coordinates">Coordinates</h2>
+<p><a href="https://www.nature.com/articles/s41598-018-33821-0">Recovering distance information in spectral domain interferometry</a>,” Scientific Reports <strong>8</strong>, 15445 (2018).</p>
+
+<h2 id="abstract">Abstract</h2>
+<p>This work evaluates the performance of the Complex Master Slave (CMS) method, that processes the spectra at the interferometer output of a spectral domain interferometry device without involving Fourier transforms (FT) after data acquisition. Reliability and performance of CMS are compared side by side with the conventional method based on FT, phase calibration with dispersion compensation (PCDC). We demonstrate that both methods provide similar results in terms of resolution and sensitivity drop-off. The mathematical operations required to produce CMS results are highly parallelizable, allowing real-time, simultaneous delivery of data from several points of different optical path differences in the interferometer, not possible via PCDC.</p>
+:ET
