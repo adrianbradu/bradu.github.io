@@ -24,6 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Super, duper site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adrianbradu.github.io/bradu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+Template Repository: https://github.com/adrianbradu/bradu.github.io
+
 twitter_username: adrianbradu
 github_username:  adrianbradu
 logo: "/assets/images/adrian.png"
