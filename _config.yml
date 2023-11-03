@@ -23,7 +23,7 @@ email: adrian@bradu.eu
 description: >- # this means to ignore newlines until "baseurl:"
   Super, duper site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bradu.eu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adrianbradu.github.io/bradu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adrianbradu
 github_username:  adrianbradu
 logo: "/assets/images/adrian.png"
